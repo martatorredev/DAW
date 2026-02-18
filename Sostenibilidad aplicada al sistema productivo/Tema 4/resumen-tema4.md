@@ -25,6 +25,7 @@ La economía lineal es el modelo productivo dominante desde la Revolución Indus
 
 (TAKE → MAKE → CONSUME → DISPOSE)
 
+<img width="1288" height="560" alt="image" src="https://github.com/user-attachments/assets/b7cbfb64-e65f-4934-aada-e04e23ce02f7" />
 
 
 ### Características principales:

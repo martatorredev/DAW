@@ -1,329 +1,452 @@
-# 📚 UT1 — Reconocimiento de las características de los lenguajes de marcas
+# 📚 UT1 – Lenguajes de Marcas: Resumen Completo para el Examen
 
 ---
 
-# 1. Lenguajes de marcas
+## 1. ¿Qué es un Lenguaje de Marcas?
 
-## 1.1 ¿Qué es un lenguaje de marcas?
+Un **lenguaje de marcas** es un modo de codificar un documento donde, junto con el texto, se incorporan **etiquetas, marcas o anotaciones** con información adicional relativa a la estructura del texto o su formato de presentación.
 
-Un **lenguaje de marcas** es un sistema que permite:
+- Permiten hacer explícita la estructura de un documento, su contenido semántico o cualquier otra información lingüística.
+- Todo lenguaje de marcas está definido en un documento llamado **DTD (Document Type Definition)**, donde se establecen las marcas, elementos, etiquetas, atributos, sintaxis y normas de uso.
+- En un mismo documento pueden combinarse varios tipos de lenguajes de marcas.
 
-- Codificar documentos mediante **etiquetas**
-- Definir su **estructura**
-- Añadir información semántica
-- Separar contenido y formato
-- Permitir intercambio entre aplicaciones
+### Clasificación de los lenguajes de marcas
 
-No es un lenguaje de programación.
+| Tipo | Descripción |
+|------|-------------|
+| **De presentación** | Define el formato del texto |
+| **De procedimientos** | Orientado a la presentación; el programa interpreta el código en el orden en que aparece |
+| **Descriptivo o semántico** | Describe las partes en que se estructura el documento sin especificar cómo representarlas |
 
----
+### Ejemplos por ámbito
 
-## 1.2 ¿Para qué se utilizan?
+**Documentación electrónica:**
+- **RTF** (Rich Text Format): desarrollado por Microsoft en 1987. Permite intercambio entre procesadores de texto.
+- **TeX**: para crear ecuaciones matemáticas complejas.
+- **Wikitexto**: para crear páginas wiki.
+- **DocBook**: genera documentos separando estructura lógica del formato.
 
-- Dar formato a documentos
-- Definir la estructura lógica de los datos
-- Facilitar el intercambio de información
-- Representar información de forma independiente de la plataforma
+**Tecnologías de Internet:**
+- **HTML / XHTML**: creación de páginas web.
+- **RSS**: difusión de contenidos web.
 
----
+**Otros lenguajes especializados:**
+- **MathML**: formalismo matemático entre sistemas.
+- **VoiceXML**: intercambio de información con reconocimiento de habla.
+- **MusicXML**: intercambio de partituras.
 
-## 1.3 Clasificación
-
-### 🔹 Lenguajes de presentación
-Definen cómo se muestra el texto.
-
-Ejemplo: RTF
-
-### 🔹 Lenguajes de procedimientos
-Indican cómo debe procesarse el documento en orden secuencial.
-
-### 🔹 Lenguajes descriptivos o semánticos
-Describen la estructura del documento sin definir su presentación.
-
-Ejemplo: XML
+> ⚠️ **Autoevaluación:** Los lenguajes de marcas se utilizan para **todas las anteriores**: dar formato, definir estructura y permitir intercambio entre plataformas.
 
 ---
 
-# 2. Evolución de los lenguajes de marcas
+## 2. Evolución de los Lenguajes de Marcas
 
-## 2.1 GML (Generalized Markup Language)
+### 2.1 GML (Generalized Markup Language)
 
-- Creado por IBM
-- Independiente de plataforma
-- Permitía estructurar documentos
+- Creado en los **años 60-70** por **Charles F. Goldfarb** por encargo de **IBM**.
+- Objetivo: construir un sistema de edición, almacenamiento y búsqueda de **documentos legales**.
+- Establecía un **formato estándar** para todos los documentos, independiente de la plataforma y la aplicación.
+- Permitía gestionar cualquier documento en cualquier departamento con cualquier aplicación.
 
----
+### 2.2 SGML (Standard Generalized Markup Language)
 
-## 2.2 SGML (Standard Generalized Markup Language)
+- GML evolucionó hasta convertirse en **SGML en 1986**, estándar **ISO 8879**.
+- Era un lenguaje **muy complejo** y requería herramientas de software **caras**.
+- Su uso quedó relegado a **grandes aplicaciones industriales**.
 
-- Estándar ISO 8879 (1986)
-- Muy potente pero complejo
-- Solo trabaja con documentos válidos
-- Herramientas costosas
+### 2.3 HTML (HyperText Markup Language)
 
----
+- Creado en **1989/90** por **Tim Berners-Lee** al crear la **World Wide Web**.
+- Combinación de dos estándares:
+  - **ASCII**: formato reconocible por cualquier procesador de textos, permite transferencia de datos entre ordenadores.
+  - **SGML**: da estructura al texto.
+- HTML es una **versión simplificada de SGML** (solo las instrucciones imprescindibles).
+- Se convirtió en **estándar general para páginas web**.
 
-## 2.3 HTML (HyperText Markup Language)
+**Desventajas de HTML:**
+- No soporta tareas de impresión y diseño.
+- No es flexible (etiquetas limitadas).
+- No permite contenido dinámico.
+- La estructura y el diseño están **mezclados** en el documento.
 
-Creado por Tim Berners-Lee en 1989.
+### 2.4 XML (eXtensible Markup Language)
 
-Basado en:
-- ASCII
-- SGML
+- El **W3C** establece el estándar XML en **1998** para resolver los problemas de HTML.
+- Es un lenguaje de marcas **puramente estructural** que **no incluye información de diseño**.
+- Se está convirtiendo en estándar para el **intercambio de datos en la Web**.
+- A diferencia de HTML, las etiquetas indican el **significado** de los datos, no el formato.
 
-### Ventajas
-- Fácil
-- Estándar web
-- Muy extendido
+**XML es un metalenguaje caracterizado por:**
+- Permitir definir **etiquetas propias**.
+- Permitir asignar **atributos** a las etiquetas.
+- Utilizar un **esquema** para definir exactamente las etiquetas y atributos.
+- La **estructura y el diseño son independientes**.
 
-### Problemas
-- Mezcla estructura y diseño
-- No es flexible
-- Etiquetas limitadas
-- No orientado al intercambio de datos
-
----
-
-## 2.4 XML (eXtensible Markup Language)
-
-Creado por el W3C en 1998.
-
-### Características
-
-- Permite definir etiquetas propias
-- Permite definir atributos
-- Separa estructura y diseño
-- Es extensible
-- Compatible con SGML
-- Independiente de plataforma
-- Legible para humanos
-- Formato universal de intercambio
+**La familia XML incluye:**
+- **XSL** (eXtensible Style Language): hojas de estilo para documentos XML con capacidad de transformación.
+- **XML Linking Language** (XPath, XLink, XPointer): enlaces entre documentos XML.
+- **XML Namespaces**: contexto para las marcas, diferencia etiquetas con el mismo nombre en distintos contextos.
+- **XML Schemas / DTD**: definen restricciones que se aplicarán a un documento XML.
 
 ---
 
-# 3. Comparaciones importantes
+## 3. Comparativas
 
-## 3.1 XML vs HTML
+### XML vs HTML
 
 | XML | HTML |
-|------|------|
-| Perfil de SGML | Aplicación de SGML |
-| Define etiquetas propias | Etiquetas predefinidas |
-| Orientado a datos | Orientado a presentación |
-| Separa estructura y diseño | Mezcla estructura y diseño |
-| Modelo de enlaces complejo | Modelo simple |
+|-----|------|
+| Es un **perfil de SGML** | Es una **aplicación de SGML** |
+| Especifica cómo definir conjuntos de etiquetas para un tipo de documento | Aplica un conjunto **limitado** de etiquetas sobre un único tipo de documento |
+| Modelo de hiperenlaces **complejo** | Modelo de hiperenlaces **simple** |
+| El navegador es una **plataforma para el desarrollo de aplicaciones** | El navegador es un **visor de páginas** |
+| Fin de la guerra de los navegadores y etiquetas propietarias | El problema de incompatibilidad entre navegadores es difícil de resolver |
 
----
-
-## 3.2 XML vs SGML
+### XML vs SGML
 
 | XML | SGML |
-|------|------|
-| Uso sencillo | Uso complejo |
-| No exige validación obligatoria | Solo documentos válidos |
-| Bajo coste | Herramientas costosas |
-| Muy utilizado | Uso específico |
-| Compatible con HTML | No integración clara |
+|-----|------|
+| Uso **sencillo** | Uso **complejo** |
+| Trabaja con **documentos bien formados** (no exige que estén validados) | Solo trabaja con **documentos válidos** |
+| Facilita el desarrollo de aplicaciones de **bajo coste** | Las aplicaciones para procesar SGML son **muy costosas** |
+| Muy utilizado en informática y más áreas | Solo se utiliza en **sectores muy específicos** |
+| **Compatible e integrado** con HTML | No hay compatibilidad con HTML definida |
+| Formato y estilos **fáciles de aplicar** | Formateo y estilos relativamente complejos |
+| **No usa etiquetas opcionales** | — |
+
+> ⚠️ **Autoevaluación:** ¿Qué tienen en común XML y SGML? → **Guardan la estructura lógica de los documentos.**
 
 ---
 
-# 4. Etiquetas
+## 4. Las Etiquetas
 
-Las etiquetas:
+- Los lenguajes de marcas utilizan **etiquetas** especiales intercaladas en un documento de texto sin formato.
+- Las etiquetas se escriben **encerradas entre ángulos**: `<` y `>`.
+- Se utilizan **dos etiquetas**: una de inicio y otra de fin.
+- La de cierre lleva una **barra inclinada `/`** antes del código.
 
-- Se escriben entre `<` y `>`
-- Tienen apertura y cierre
-- Son sensibles a mayúsculas y minúsculas
+```xml
+<etiqueta>texto que sufrirá las consecuencias de la etiqueta</etiqueta>
+```
 
-Ejemplo:
+- Las especificaciones del W3C indican que deben ir escritas **siempre en minúsculas**.
 
-``xml
-<titulo>XML práctico</titulo>
-
-Etiqueta vacía:
-
-    <elemento/>
-
-También puede escribirse como:
-
-    <elemento></elemento>
+> ⚠️ **Autoevaluación:** ¿Cuál es correcta? → `<i>Texto en cursiva</i>` ✅
 
 ---
 
-## 4.1 Reglas importantes sobre etiquetas
+## 5. Herramientas de Edición
 
-- Debe existir **un único elemento raíz**.
-- Todas las etiquetas deben tener **apertura y cierre**, salvo las vacías.
-- Las etiquetas deben estar **correctamente anidadas**.
-- XML es **case sensitive** (distingue mayúsculas y minúsculas).
+Para trabajar en XML se necesitan dos tipos de herramientas:
 
-❌ Incorrecto:
+### Editores XML
+- Los lenguajes de marcas se basan en **ficheros de texto plano**, por lo que basta un procesador de texto normal.
+- Para documentos complejos es conveniente usar un **editor XML** (ayudan con estructuras, etiquetas, DTD, CSS, XSL...).
+- El W3C desarrolló **Amaya**: editor gratuito de HTML, XHTML, CSS y XML.
 
-    <Libro><Autor></Libro></Autor>
+### Procesadores XML
+- Permiten **leer documentos XML** y acceder a su contenido y estructura.
+- Contienen un **parser o analizador** que comprueba que el documento cumple las normas.
+- **Validadores**: solo trabajan con documentos **válidos**.
+- **No validadores**: solo exigen que el documento esté **bien formado**.
+- Para publicar XML en Internet se usan procesadores **XSLT** (generan HTML desde XML).
+- Para interpretar XML se puede usar **cualquier navegador**.
+- Para intercambio de datos entre aplicaciones: **JAXP de Oracle**.
 
-✔ Correcto:
-
-    <Libro><Autor></Autor></Libro>
-
----
-
-## 4.2 Nombres de etiquetas
-
-Deben cumplir las siguientes normas:
-
-- Pueden contener letras, números, guiones `-`, puntos `.` y guiones bajos `_`.
-- No pueden contener espacios.
-- No pueden comenzar por:
-  - Un número
-  - Un punto
-  - Un guion
-  - Dos puntos `:`
-  - La palabra `xml` (en cualquier combinación de mayúsculas/minúsculas)
-
-✔ Correcto:
-
-    <titulo_libro>
-    <fecha-publicacion>
-    <color.favorito>
-
-❌ Incorrecto:
-
-    <2titulo>
-    <xmlLibro>
-    <color favorito>
+> ⚠️ **Autoevaluación:** Para crear documentos XML es necesario → **Un bloc de notas y un navegador.** ✅
 
 ---
 
-# 5. Atributos
+## 6. XML: Estructura y Sintaxis
 
-Los atributos proporcionan información adicional sobre un elemento.
+### Características básicas de XML
+- Compatible con protocolos existentes como **HTTP y URL**.
+- Todo documento XML conforme está conforme con **SGML**.
+- No se requieren conocimientos de programación para tareas sencillas.
+- Los documentos XML son **fáciles de crear**.
+- El marcado de XML es **legible para los humanos**.
+- El diseño es **formal y conciso**.
+- Es **extensible, adaptable** y aplicable a gran variedad de situaciones.
+- Es **orientado a objetos**.
 
-Ejemplo:
+### Etapas de creación de un documento XML
+1. Especificación de requisitos.
+2. Diseño de etiquetas.
+3. Marcado de los documentos.
 
-    <libro isbn="9781234567890" edicion="1">
+### Composición de un documento XML
+Un documento XML se compone de:
+- **Prólogo** (opcional): debe preceder al ejemplar si se incluye.
+- **Ejemplar** (obligatorio): contiene los datos reales.
 
----
-
-## 5.1 Reglas de los atributos
-
-- Siempre deben ir entre comillas (`"` o `'`).
-- No pueden repetirse dentro del mismo elemento.
-- El orden no es relevante.
-- Son sensibles a mayúsculas y minúsculas.
-
-❌ Incorrecto:
-
-    <libro isbn="123" isbn="456">
-
-✔ Correcto:
-
-    <libro isbn="123" edicion="1">
-
----
-
-# 6. Caracteres especiales en XML
-
-No pueden utilizarse directamente los siguientes caracteres:
-
-- `<`
-- `>`
-- `&`
-- `"`
-- `'`
-
-Deben sustituirse por entidades:
-
-| Carácter | Entidad  |
-|----------|----------|
-| `<`      | `&lt;`   |
-| `>`      | `&gt;`   |
-| `&`      | `&amp;`  |
-| `"`      | `&quot;` |
-| `'`      | `&apos;` |
-
-Ejemplo:
-
-    <condicion>a &lt; b &amp;&amp; b &gt; 0</condicion>
+### Comentarios en XML
+- Se incluyen entre `<!--` y `-->`.
+- No son interpretados por el intérprete XML.
+- **No pueden estar:**
+  - Antes del prólogo.
+  - Dentro de una etiqueta.
 
 ---
 
-# 7. Comentarios
+## 7. El Prólogo
 
-Se escriben así:
+El prólogo puede tener tres funciones:
 
-    <!-- Esto es un comentario -->
+### 7.1 Declaración de versión XML
+```xml
+<?xml version="1.0" ?>
+```
 
-Reglas:
+### 7.2 Declaración de codificación
+```xml
+<?xml version="1.0" encoding="iso-8859-1" ?>
+```
 
-- No pueden estar dentro de una etiqueta.
-- No pueden contener `--`.
-- No pueden anidarse.
+**Códigos de codificación más importantes:**
 
-❌ Incorrecto:
+| Estándar ISO | Uso |
+|---|---|
+| **UTF-8** (Unicode) | Conjunto de caracteres universal |
+| **ISO-8859-1** (Latin-1) | Europa occidental, Latinoamérica (acentos, ñ) |
+| ISO-8859-2 (Latin-2) | Europa central y oriental |
+| ISO-8859-3 (Latin-3) | Sudoeste de Europa |
+| ISO-8859-4 (Latin-4) | Países Escandinavos, Bálticos |
+| ISO-8859-5 | Cirílico |
+| ISO-8859-6 | Árabe |
+| ISO-8859-7 | Griego |
+| ISO-8859-8 | Hebreo |
+| ISO-8859-9 | Turco |
+| ISO-8859-10 | Lapón, Nórdico, esquimal |
+| EUC-JP / Shift_JIS | Japonés |
 
-    <!-- Comentario -- interno -->
+### 7.3 Declaración de autonomía del documento
+```xml
+<?xml version="1.0" encoding="iso-8859-1" standalone="yes" ?>
+```
+- `standalone="yes"`: el documento es **independiente**.
+- `standalone="no"`: necesita de otro documento externo (como un DTD).
 
----
-
-# 8. Secciones CDATA
-
-Permiten incluir texto sin que sea analizado por el parser.
-
-Sintaxis:
-
-    <![CDATA[
-    Texto con < y & sin escapar
-    ]]>
-
-No puede contener la secuencia:
-
-    ]]>
-
----
-
-# 9. Documento bien formado
-
-Un documento está bien formado si:
-
-- Tiene un único elemento raíz.
-- Todas las etiquetas están cerradas.
-- El anidamiento es correcto.
-- Respeta mayúsculas y minúsculas.
-- Los atributos están correctamente escritos.
-
----
-
-# 10. Documento válido
-
-Un documento es válido si:
-
-- Está bien formado.
-- Cumple una DTD o esquema definido.
+### 7.4 Declaración del tipo de documento
+```xml
+<!DOCTYPE Nombre_tipo ...>
+```
+- Define qué tipo de documento se está creando para ser procesado correctamente.
 
 ---
 
-# 11. Conceptos clave para el examen
+## 8. El Ejemplar: Los Elementos
 
-Debes tener claro:
+- Es la parte **más importante** de un documento XML (contiene los datos reales).
+- Está formado por **elementos anidados**.
+- Los elementos son bloques de información delimitados por **etiqueta de apertura y cierre**.
+- A su vez, los elementos pueden contener otros elementos y/o atributos.
+- El ejemplar es el **elemento raíz (root)** del documento.
 
-- Diferencia entre XML y HTML.
-- Diferencia entre XML y SGML.
-- Qué es el prólogo.
-- Qué es el ejemplar.
-- Qué es el elemento raíz.
-- Reglas de etiquetas.
-- Reglas de atributos.
-- Documento bien formado vs válido.
-- Función de un procesador XML.
+### Reglas para la formación de elementos
+
+1. En todo documento XML debe existir **un único elemento raíz**.
+2. Todos los elementos tienen etiqueta de **inicio y cierre**. Los elementos vacíos pueden escribirse como `<elemento/>`.
+3. Al **anidar elementos**, no se puede cerrar un elemento que contenga otro aún no cerrado.
+4. Los nombres de etiquetas de inicio y cierre deben ser **idénticos** (respetando mayúsculas y minúsculas).
+5. Los nombres pueden ser cualquier cadena alfanumérica **sin espacios** y que **no comience** por `:` ni por `xml` (en ninguna combinación de mayúsculas/minúsculas).
+
+### Caracteres especiales (entidades predefinidas)
+
+| Carácter | Cadena |
+|---|---|
+| `>` | `&gt;` |
+| `<` | `&lt;` |
+| `&` | `&amp;` |
+| `"` | `&quot;` |
+| `'` | `&apos;` |
+
+- Para caracteres especiales como €, £, ©... se usan expresiones **`&#D;`** (decimal) o **`&#xH;`** (hexadecimal) en código Unicode.
+  - Ejemplo: Euro `€` → `&#8364;` o `&#x20AC;`
 
 ---
 
-# 🔥 Repaso rápido antes del examen
+## 9. Los Atributos
 
-- XML es estructural, HTML es visual.
-- Solo puede existir un elemento raíz.
-- Todas las etiquetas deben cerrarse.
-- XML distingue mayúsculas y minúsculas.
-- Bien formado ≠ válido.
-- Los atributos siempre van entre comillas.
-- Los caracteres especiales deben escaparse.
+- Permiten **añadir propiedades** a los elementos.
+- **No pueden** organizarse en jerarquía.
+- **No pueden** contener ningún otro elemento o atributo.
+- **No reflejan** ninguna estructura lógica.
+- **No se debe** usar un atributo para contener información susceptible de ser dividida.
+- Se definen dentro de la **etiqueta de inicio**, separados por espacios.
+- Los valores van **entre comillas simples o dobles**.
+- Los nombres de atributos siguen las **mismas reglas que los elementos**.
+- Los nombres de atributos **no pueden contener el carácter `<`**.
+
+```xml
+<ejemplar tipo_ejem="libro" titulo="XML practico" editorial="Ediciones Eni">
+```
+
+---
+
+## 10. Documentos XML Bien Formados
+
+Un documento XML está **bien formado** si cumple estas normas básicas del W3C:
+
+1. El documento tiene definido un **prólogo con la declaración XML completa**.
+2. Existe **un único elemento raíz** que contiene todos los demás.
+3. Se cumplen todas las **reglas sintácticas** para definir elementos y atributos.
+
+> ⚠️ **Autoevaluación:** ¿Está bien formado este documento?
+> ```xml
+> <?xml version="1.0"?>
+> <mensaje>
+>   <destinatario>Tomas</ destinatario>
+>   <remitente>Juan</ remitente>
+>   <asunto>
+>   <contenido>No olvides ir a recogerme al aeropuerto!</contenido>
+> </mensaje>
+> ```
+> → **Falso.** La etiqueta `<asunto>` sigue abierta y el prólogo no tiene una declaración XML completa.
+
+---
+
+## 11. Espacios de Nombres (Namespaces)
+
+- Permiten definir la **pertenencia de los elementos y atributos** de un documento XML a un vocabulario XML concreto.
+- Resuelven las **ambigüedades** cuando se juntan dos documentos distintos que usan el mismo nombre de etiqueta para cosas distintas.
+- También conocidos como **"name spaces"**.
+- Permiten dar un nombre único a cada elemento, indexándolos según el nombre del vocabulario adecuado.
+- Están asociados a un **URI** que los identifica de forma única.
+
+### Sintaxis
+
+Las etiquetas ambiguas se sustituyen por **"nombres cualificados"**:
+
+```xml
+<prefijo:nombre_etiqueta></prefijo:nombre_etiqueta>
+```
+
+- El prefijo determina el contexto al que pertenece la etiqueta.
+- Los prefijos **no pueden** tener espacios ni caracteres especiales y **no pueden comenzar por un dígito**.
+
+### Declaración del espacio de nombres
+
+Se usa el atributo especial `xmlns`:
+
+```xml
+<elemento xmlns:prefijo="URI_del_espacio_de_nombres">
+```
+
+### Ejemplo práctico
+
+Sin espacios de nombres, al unir un XML de alumnos y uno de profesores, la etiqueta `<nombre>` sería ambigua. Con namespaces:
+
+```xml
+<?xml version="1.0" encoding="iso-8859-1" standalone="yes" ?>
+<!DOCTYPE miembros>
+<alumnos xmlns:alumnos="http://DAM/alumnos">
+<profesores xmlns:profesores="http://DAM/profesores">
+<asistentes>
+  <alumnos:nombre>Fernando Fernández González</alumnos:nombre>
+  <alumnos:nombre>Isabel González Fernández</alumnos:nombre>
+  <profesores:nombre>Pilar Ruiz Pérez</profesores:nombre>
+  <profesores:nombre>Tomás Rodríguez Hernández</profesores:nombre>
+</asistentes>
+```
+
+> ⚠️ **Autoevaluación:** Los espacios de nombres permiten → **Utilizar etiquetas idénticas para estructurar distintos tipos de información de texto.** ✅
+
+---
+
+## 12. Ejemplo Completo de Documento XML
+
+```xml
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE biblioteca>
+<biblioteca>
+  <ejemplar tipo_ejem="libro" titulo="XML practico" editorial="Ediciones Eni">
+    <tipo>
+      <libro isbn="978-2-7460-4958-1" edicion="1" paginas="347"></libro>
+    </tipo>
+    <autor nombre="Sebastien Lecomte"></autor>
+    <autor nombre="Thierry Boulanger"></autor>
+    <autor nombre="Angel Belinchon Calleja" funcion="traductor"></autor>
+    <prestado lector="Pepito Grillo">
+      <fecha_pres dia="13" mes="mar" año="2009"></fecha_pres>
+      <fecha_devol dia="21" mes="jun" año="2009"></fecha_devol>
+    </prestado>
+  </ejemplar>
+  <ejemplar tipo_ejem="revista" titulo="Todo Linux 101" editorial="Studio Press">
+    <tipo>
+      <revista>
+        <fecha_publicacion mes="abr" año="2009"></fecha_publicacion>
+      </revista>
+    </tipo>
+    <autor nombre="Varios"></autor>
+    <prestado lector="Pedro Picapiedra">
+      <fecha_pres dia="12" mes="ene" año="2010"></fecha_pres>
+    </prestado>
+  </ejemplar>
+</biblioteca>
+```
+
+---
+
+## 13. Ejercicio: Detectar Errores en XML
+
+```xml
+<?XML version="1.0" encoding="UTF-8" standalone="yes" ?>
+<!DOCTYPE biblioteca >
+<biblioteca>
+  <ejemplar tipo_ejem='libro' titulo='XML práctico' editorial='Ediciones Eni'>
+    <tipo> <libro isbn='978-2-7460-4958-1' edicion= paginas='347'></libro> </tipo>
+    <prestado lector='Pepito Grillo'>
+      <fecha_pres dia='13' mes='mar' año='2009'></fecha_pres>
+      <fecha_devol/>
+    </prestado>
+  </ejemplar>
+</biblioteca>
+```
+
+**Errores correctos en este documento (según solución del libro):**
+- ✅ **Hay algún atributo vacío** → `edicion=` no tiene valor entre comillas.
+- ✅ **Los valores de los atributos no están entre comillas dobles** → se usan comillas simples (válido, pero el ejercicio lo marca como incorrecto en ese contexto).
+
+**Errores incorrectos (trampas):**
+- ❌ "Utiliza mayúsculas en la definición de la versión XML" → `<?XML` SÍ es un error (debe ser `<?xml` en minúsculas), pero la solución oficial lo marca como incorrecto en ese ejercicio concreto.
+- ❌ `<fecha_devol/>` sí se cierra correctamente (es elemento vacío válido).
+
+---
+
+## 📋 Resumen Visual de la Estructura de un Documento XML
+
+```
+DOCUMENTO XML
+│
+├── PRÓLOGO (opcional)
+│   ├── Declaración XML: <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+│   └── Declaración DOCTYPE: <!DOCTYPE nombre_tipo>
+│
+└── EJEMPLAR (obligatorio)
+    └── Elemento raíz único
+        ├── Elementos hijo (con etiquetas de apertura y cierre)
+        │   ├── Atributos (dentro de la etiqueta de apertura)
+        │   └── Contenido (texto o más elementos)
+        └── Comentarios <!-- ... -->
+```
+
+---
+
+## ✅ Checklist para el Examen
+
+- [ ] Sé definir qué es un lenguaje de marcas y sus tipos (presentación, procedimientos, descriptivo)
+- [ ] Conozco la evolución: GML → SGML → HTML → XML (fechas y autores)
+- [ ] Sé las desventajas de HTML
+- [ ] Sé las características de XML como metalenguaje
+- [ ] Conozco la familia XML (XSL, XML Linking, Namespaces, Schemas/DTD)
+- [ ] Sé comparar XML vs HTML y XML vs SGML
+- [ ] Conozco la sintaxis de las etiquetas (apertura, cierre, minúsculas)
+- [ ] Sé qué son los editores y procesadores XML (validadores vs no validadores)
+- [ ] Domino la estructura: prólogo + ejemplar
+- [ ] Sé los tres atributos de la declaración XML (version, encoding, standalone)
+- [ ] Conozco las codificaciones (UTF-8, ISO-8859-1...)
+- [ ] Sé las reglas para nombrar elementos y atributos
+- [ ] Conozco las entidades predefinidas (&lt; &gt; &amp; &quot; &apos;)
+- [ ] Sé qué es un documento bien formado (3 reglas básicas)
+- [ ] Entiendo los espacios de nombres (problema, sintaxis xmlns, prefijos)
+- [ ] Sé detectar errores en documentos XML

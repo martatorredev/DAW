@@ -353,6 +353,189 @@ Sin espacios de nombres, al unir un XML de alumnos y uno de profesores, la etiqu
 
 ---
 
+## 11b. Espacios de Nombres: Detalle Técnico (ampliación)
+
+### Sintaxis exacta
+```xml
+xmlns:prefijo="URI"
+```
+
+- El **URI** (Uniform Resource Identifier) no tiene por qué contener nada real; su función es **ser único**.
+- Los prefijos se añaden a las etiquetas: `<prefijo:elemento>`.
+
+### Namespace por defecto
+```xml
+xmlns="URI"
+```
+- Afecta al elemento donde se define **y a todos sus sucesores** (hijos, hijos de hijos...).
+
+### Namespace vacío (sin namespace)
+```xml
+xmlns=""
+```
+- Indica que ese elemento y sus hijos **no pertenecen a ningún espacio de nombres**.
+
+### Dónde se pueden definir
+- En el **elemento raíz** (afecta a todo el documento).
+- En **elementos distintos al raíz** (afecta solo a ese elemento y sus hijos).
+
+---
+
+## 11c. Instrucciones de Procesamiento
+
+- Sirven para indicar cierta información al programa que procese el documento.
+- Se escriben entre `<?` y `?>`.
+- **No son obligatorias** en un documento XML.
+- La declaración XML `<?xml ...?>` tiene la misma forma pero **NO es una instrucción de procesamiento**.
+
+### Ejemplo: asociar CSS a un XML
+```xml
+<?xml-stylesheet type="text/css" href="estilo.css"?>
+```
+
+---
+
+## 11d. Secciones CDATA
+
+- Sirven para escribir texto que **no se desea que sea analizado** por el parser XML.
+- Útil cuando el contenido contiene caracteres problemáticos (`<`, `&`) sin necesidad de usar entidades.
+- Se escribe entre `<![CDATA[` y `]]>`.
+
+```xml
+<ejemplo_CDATA>
+<![CDATA[
+  #include <stdio.h>
+  if ( 5 <= nota )
+  printf("APROBADO");
+]]>
+</ejemplo_CDATA>
+```
+
+**Reglas de CDATA:**
+- Dentro de una sección CDATA **no se puede escribir** `]]>`.
+- Por tanto, **no se pueden anidar** secciones CDATA.
+- **No se permiten** espacios en blanco o saltos de línea dentro de `<![CDATA[` o `]]>`.
+
+---
+
+## 11e. Espacios en Blanco en XML
+
+### En el contenido de un elemento
+- Las **tabulaciones, retornos de carro y varios espacios en blanco** se representan como **un único espacio en blanco**.
+
+```xml
+<pelicula>Una
+mente
+maravillosa</pelicula>
+```
+→ Se muestra como: `Una mente maravillosa`
+
+### En atributos
+- Ocurre lo mismo: múltiples espacios/saltos de línea en el valor de un atributo se normalizan a un espacio.
+
+### Entre elementos
+- Los espacios en blanco entre elementos son ignorados; estos tres documentos son equivalentes:
+```xml
+<datos><dato>1</dato><dato>2</dato></datos>
+<datos>
+  <dato>1</dato>
+  <dato>2</dato>
+</datos>
+```
+
+### Atributo xml:space
+- Para **preservar** los espacios tal cual aparecen: `xml:space="preserve"`
+- Valor por defecto (cuando no se escribe): `xml:space="default"` → la aplicación decide cómo tratar los espacios.
+- ⚠️ No todos los programas reconocen este atributo.
+
+```xml
+<clasificacion xml:space="preserve">
+1 Fernando Alonso 1:55.341
+2 Lewis Hamilton 1:55.729
+</clasificacion>
+```
+
+---
+
+## 11f. Normas de Sintaxis de Elementos (detalle)
+
+Los nombres de elementos son **case sensitive**. Pueden contener:
+- Letras minúsculas, mayúsculas, números, puntos `.`, guiones medios `-` y guiones bajos `_`.
+- El carácter `:` (reservado para namespaces).
+- El **primer carácter** debe ser una **letra o guion bajo `_`**.
+
+**Permitido:**
+- Espacio en blanco o salto de línea **detrás** del nombre de la etiqueta: `<ciudad >Pamplona</ciudad >`
+
+**No permitido:**
+- Espacio o salto de línea **antes** del nombre: `< ciudad>Pamplona</ciudad>` ❌
+
+**Ejemplos de errores típicos:**
+
+| Incorrecto | Correcto |
+|---|---|
+| `<Ciudad>...</ciudad>` (distinto case) | `<Ciudad>...</Ciudad>` |
+| `<mes>6<mes/>` (cierre mal) | `<mes>6</mes>` |
+| `<2colores>` (empieza por número) | `<colores2>` |
+| `< Aficiones >` (espacio antes) | `<Aficiones >` |
+| `<color favorito>` (espacio en nombre) | `<color_favorito>` o `<color.favorito>` |
+| `<persona><nombre>Elsa</persona></nombre>` (mal anidado) | `<persona><nombre>Elsa</nombre></persona>` |
+
+> ⚠️ Las letras no inglesas (á, ñ...) están permitidas pero se recomienda **no usarlas** para evitar incompatibilidades.
+
+---
+
+## 11g. Normas de Sintaxis de Atributos (detalle)
+
+- Mismas normas de nombres que los elementos.
+- **Todos los atributos de un elemento deben ser únicos** (no se puede repetir el mismo nombre de atributo).
+- `<datos x="3" x="4" y="5"/>` ❌ → El atributo `x` se repite.
+- `<datos x="3" X="4" y="5"/>` ✅ → `x` y `X` son distintos (case sensitive).
+- Los atributos se **separan con espacios en blanco** y su **orden no es significativo**.
+
+### Comillas en atributos
+- Si el valor va entre comillas dobles `"`, no puede contener `"` → usar `&quot;`
+- Si el valor va entre comillas simples `'`, no puede contener `'` → usar `&apos;`
+- Valor con dobles comillas puede contener comilla simple y viceversa:
+  - `<dato caracter="comilla simple(')"/>` ✅
+
+---
+
+## 11h. Comentarios (detalle)
+
+- Entre `<!--` y `-->`.
+- **No se pueden escribir dentro de las etiquetas**: `<mujer <!-- vacío --> />` ❌
+- **No se pueden usar dos guiones seguidos** dentro del comentario: `<!-- texto -- más texto -->` ❌
+- **No se pueden anidar comentarios**.
+
+---
+
+## 11i. Documentos Bien Formados vs Válidos
+
+### Bien formado (well-formed)
+Un documento XML está **bien formado** si:
+- Los nombres de elementos y atributos están correctamente escritos.
+- Los valores de los atributos van entre comillas dobles o simples.
+- Los atributos de un elemento se separan con espacios en blanco.
+- Se usan referencias a entidades donde sea necesario.
+- Existe un **único elemento raíz**.
+- Todo elemento tiene un padre, excepto el raíz.
+- Todos los elementos tienen etiqueta de apertura y cierre.
+- Las etiquetas están correctamente **anidadas**.
+- Las instrucciones de proceso están correctamente escritas.
+- La declaración XML está en la **primera línea** y correctamente escrita.
+- Las secciones CDATA y comentarios están correctamente escritos.
+
+### Válido (valid)
+Un documento XML es **válido** cuando, además de estar bien formado, **no incumple ninguna norma de su estructura**. Esa estructura se puede definir con:
+- **DTD** (Document Type Definition).
+- **XML Schema**.
+- **RELAX NG**.
+
+> 💡 **Resumen clave:** Bien formado = sin errores de sintaxis. Válido = bien formado + cumple las reglas de su DTD/Schema.
+
+---
+
 ## 12. Ejemplo Completo de Documento XML
 
 ```xml

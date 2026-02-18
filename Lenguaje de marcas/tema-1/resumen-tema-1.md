@@ -137,7 +137,7 @@ Las etiquetas:
 
 Ejemplo:
 
-```xml
+``xml
 <titulo>XML práctico</titulo>
 
 Etiqueta vacía:

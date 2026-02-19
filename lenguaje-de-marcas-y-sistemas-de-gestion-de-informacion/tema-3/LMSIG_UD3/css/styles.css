@@ -1,0 +1,146 @@
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+
+body {
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif;
+  line-height: 1.6;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+
+.hero {
+  background-image: url("../img/hero.jpg");
+  background-size: cover;
+  background-position: center;
+  color: #fff;
+  padding: 100px 20px;
+}
+
+.menu ul {
+  list-style: none;
+  display: flex;
+  gap: 20px;
+  background-color: #222;
+  padding: 10px 20px;
+}
+
+.menu a {
+  color: #fff;
+  text-decoration: none;
+  padding: 6px 10px;
+}
+
+.menu a[aria-current="page"] {
+  background-color: #444;
+}
+
+.menu a:hover,
+.menu a:focus {
+  background-color: #444;
+}
+
+main {
+  padding: 20px;
+  flex: 1;
+}
+
+section {
+  margin-bottom: 20px;
+}
+
+article {
+  margin-top: 15px;
+}
+
+.flex-contenido {
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+.item {
+  flex: 1;
+  min-width: 220px;
+  border: 1px solid #ddd;
+  padding: 15px;
+  background: #fff;
+}
+
+.item-link {
+  display: block;
+  text-decoration: none;
+  color: inherit;
+}
+
+.item img {
+  width: 100%;
+  height: 180px;
+  object-fit: cover;
+}
+
+.creditos {
+  margin-top: 10px;
+  font-size: 0.9rem;
+}
+
+.form-group {
+  margin-bottom: 15px;
+}
+
+input[type="text"],
+input[type="email"],
+textarea {
+  width: 100%;
+  padding: 8px;
+  margin-top: 5px;
+}
+
+textarea {
+  min-height: 120px;
+}
+
+fieldset {
+  margin-bottom: 15px;
+  padding: 10px;
+}
+
+fieldset label {
+  display: block;
+  margin: 8px 0;
+}
+
+input[type="radio"],
+input[type="checkbox"] {
+  width: auto;
+  margin-right: 8px;
+  vertical-align: middle;
+}
+
+button {
+  padding: 10px 20px;
+  background-color: #222;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+}
+
+button:hover,
+button:focus {
+  background-color: #444;
+}
+
+footer {
+  background-color: #222;
+  color: #fff;
+  padding: 15px 20px;
+}
+
+
+

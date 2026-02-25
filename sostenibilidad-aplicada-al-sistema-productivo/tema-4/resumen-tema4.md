@@ -1,347 +1,183 @@
-# UD4 – Economía Circular  
-## Sostenibilidad aplicada al sistema productivo
+# UD4 – Economía Circular
+**Sostenibilidad Aplicada al Sistema Productivo**
 
 ---
 
-# INTRODUCCIÓN
+## UD4.1 – Otra Economía
 
-La Unidad Didáctica 4 analiza la transición desde el modelo económico lineal dominante hacia modelos económicos transformadores basados en la sostenibilidad, la circularidad y la regeneración.
+### La Economía Lineal
+El modelo dominante sigue una dirección única: **Extraer → Fabricar → Consumir → Desechar** (Take, Make, Consume, Dispose).
 
-El objetivo no es únicamente reducir impactos negativos, sino rediseñar el sistema productivo para que funcione como los ecosistemas naturales: sin residuos y manteniendo el valor de los recursos el mayor tiempo posible.
+Asume que los recursos son ilimitados y busca el bienestar a través del consumo. El resultado: explotación y degradación ambiental.
 
----
+### La Espiral de Erosión
+El modelo lineal repetido genera una espiral descendente donde cada vuelta deja **menos recursos, más residuos, menos biodiversidad y menos comunidad**. El resultado final se asemeja a un desierto.
 
-# UD4.1 – OTRA ECONOMÍA  
-## Del modelo lineal a las economías transformadoras
+Los cuatro elementos del ciclo:
+- **Social**: bienestar a través del consumo
+- **Producción**: "los recursos son ilimitados"
+- **Medio Ambiente**: explotación y degradación
+- **Economía**: modelo lineal que se retroalimenta
 
----
+### Del Reciclaje al Ecodiseño Circular
 
-## 1. La economía lineal
+**¿Por qué el reciclaje no es suficiente?**
+- La mayoría de productos no están diseñados para reciclarse
+- Llevan materiales mezclados difíciles de separar
+- Separarlos requiere mucha energía
+- La mayoría de residuos no llegan al punto limpio
+- Solo se reciclan eficientemente materiales de un solo componente
 
-La economía lineal es el modelo productivo dominante desde la Revolución Industrial.
+**La solución: diseñar para cerrar el círculo** (del usuario hacia afuera):
+1. Mantener y reparar (mínima energía)
+2. Reutilizar (segunda mano)
+3. Recuperar piezas
+4. Recuperar materiales (ej: acero)
+5. Recuperar materia prima (ej: hierro)
 
-### Esquema básico:
-**Extraer → Fabricar → Consumir → Desechar**
+> Los círculos más cercanos al usuario son los que menos energía necesitan.
 
-(TAKE → MAKE → CONSUME → DISPOSE)
+### El Ecodiseño: Clave del Cambio
+> **Dato clave**: El **80% de los impactos medioambientales** de un producto se determinan en la fase de diseño.
 
-<img width="1288" height="560" alt="image" src="https://github.com/user-attachments/assets/b7cbfb64-e65f-4934-aada-e04e23ce02f7" />
-
-
-### Características principales:
-
-- Uso intensivo de materias primas vírgenes.
-- Producción en masa.
-- Cultura del consumo acelerado.
-- Obsolescencia programada.
-- Generación continua de residuos.
-
-### Supuestos implícitos:
-
-- Los recursos naturales son ilimitados.
-- El crecimiento económico puede ser infinito.
-- El bienestar humano depende del aumento del consumo.
-
-### Consecuencias ambientales:
-
-- Agotamiento de recursos.
-- Contaminación del suelo, agua y aire.
-- Emisiones de CO₂.
-- Pérdida de biodiversidad.
-- Alteración de ciclos naturales.
-
-### Consecuencias sociales:
-
-- Desigualdad en el acceso a recursos.
-- Dependencia geopolítica de materias primas.
-- Vulnerabilidad ante crisis de suministro.
+El ecodiseño también considera agua, energía, tierra, químicos, suelos y biodiversidad. Si diseñamos mal, todo lo que viene después arrastra ese impacto.
 
 ---
 
-## 2. La espiral de erosión
+### Modelos Económicos Transformadores
 
-El modelo lineal no genera estabilidad. Produce una **espiral descendente**.
+#### Economía Verde (PNUMA)
+**Definición (Río+20)**: Economía que resulta en un mejor bienestar humano y equidad social, reduciendo riesgos ambientales y escaseces ecológicas.
 
-Cada ciclo de producción y consumo:
+**5 Niveles progresivos (EEA)**:
 
-- Reduce el capital natural.
-- Aumenta los residuos.
-- Debilita la cohesión social.
-- Intensifica la presión sobre los ecosistemas.
+| Nivel | Enfoque |
+|-------|---------|
+| 1. Gestión de residuos | Tratar lo que ya existe |
+| 2. Prevención de residuos | Evitar generar |
+| 3. Eficiencia de recursos | Hacer más con menos |
+| 4. Bienestar humano | Calidad de vida real |
+| 5. Resiliencia ecosistémica | Regenerar la naturaleza |
 
-No es un círculo cerrado, sino una espiral que:
+> La **economía circular** abarca los 3 primeros niveles; la **economía verde** los 5.
 
-- Disminuye biodiversidad.
-- Aumenta desertificación.
-- Reduce resiliencia ecológica.
-- Genera vulnerabilidad económica.
+#### Economía Regenerativa (Bill Reed, 2007)
+No basta con sostener. Llevamos años en números rojos: hay que **restaurar y regenerar**.
 
-Resultado final: degradación progresiva del sistema socioeconómico.
+Implica: regenerar suelos, crear edificios vivos, restaurar el ciclo del agua, recuperar el sentimiento de comunidad y sentirse parte integral del sistema Tierra.
 
----
+#### La Espiral Regenerativa
+Contrapuesta a la espiral de erosión, **cada vuelta deja más de lo que había antes**:
+- **Diseño**: toma de decisiones con responsabilidad
+- **Economía**: circular, sistémica y restaurativa
+- **Social**: bienestar de la comunidad y cuidado de la naturaleza
+- **Medio Ambiente**: restauración y generación de biodiversidad
 
-## 3. Del reciclaje a la economía circular
+**Tres principios de la permacultura**: cuidado de la tierra · cuidado de las personas · reparto justo (*fair share*)
 
-### El reciclaje no es suficiente
-
-Aunque el reciclaje es importante, presenta limitaciones estructurales:
-
-- Muchos productos no están diseñados para ser reciclados.
-- Mezcla compleja de materiales.
-- Procesos de separación energéticamente costosos.
-- Baja tasa real de reciclaje.
-- Downcycling (pérdida de calidad del material).
-
-El reciclaje actúa al final del proceso.  
-La economía circular actúa desde el diseño.
-
----
-
-## 4. El ecodiseño: clave estructural del cambio
-
-Dato fundamental:
-
-> El 80% del impacto ambiental de un producto se determina en la fase de diseño.
-
-### El ecodiseño implica:
-
-- Selección adecuada de materiales.
-- Diseño modular.
-- Reparabilidad.
-- Desmontaje sencillo.
-- Optimización energética.
-- Minimización de residuos.
-- Pensar en el fin de vida desde el inicio.
-
-Si el diseño es incorrecto, todas las fases posteriores arrastran el impacto.
-
-El diseño circular prioriza:
-
-- Mantener
-- Reparar
-- Reutilizar
-- Recuperar piezas
-- Recuperar materiales
-- Recuperar materia prima
-
-Cuanto más cerca del usuario se mantenga el producto, menor energía requerida.
+#### Otras Economías Transformadoras
+- **Triple Balance / SANNAs**: impacto positivo en economía financiera + social + ambiental
+- **B-Corp**: certificación para empresas con estándares verificados de impacto
+- **Economía del Bien Común**: medir el éxito por la contribución al bienestar general
+- Economía Azul, Colaborativa, Feminista, Social y Solidaria, Finanzas Éticas, Procomún, Movimiento en Transición
 
 ---
 
-## 5. Economía verde
+## UD4.2 – Economía Circular
 
-Definición (Conferencia Río+20):
+### Las 9R de la Economía Circular
 
-> Economía que mejora el bienestar humano y la equidad social, reduciendo riesgos ambientales y escasez ecológica.
+| # | R | Descripción |
+|---|---|-------------|
+| 1 | **Rediseñar** | La más importante: ecodiseño desde el principio |
+| 2 | **Reducir** | Menos consumo, menos residuo. "¿Lo necesito realmente?" |
+| 3 | **Repartir/Compartir** | Un producto, varios usuarios |
+| 4 | **Reutilizar** | Darle un nuevo uso |
+| 5 | **Reparar/Restaurar** | Arreglar o modernizar para nueva función |
+| 6 | **Renovar** | Actualizar y reacondicionar |
+| 7 | **Recuperar** | Desmontar, reacondicionar y reensamblar como casi nuevo |
+| 8 | **Reciclar** | Reincorporar como materia prima (último recurso) |
+| 9 | **Rechazar** | Evitar productos que generan más residuos o son innecesarios |
 
-### Niveles según la Agencia Europea de Medio Ambiente:
-
-1. Gestión de residuos  
-2. Prevención de residuos  
-3. Eficiencia de recursos  
-4. Bienestar humano  
-5. Resiliencia ecosistémica  
-
-La economía circular cubre los tres primeros niveles.  
-La economía verde abarca los cinco.
-
-Implica transición desde la eficiencia hacia la regeneración.
-
----
-
-## 6. Economía regenerativa
-
-Inspirada en Bill Reed (2007).
-
-No basta con sostener el sistema actual.  
-La humanidad lleva décadas superando la capacidad regenerativa del planeta.
-
-La economía regenerativa busca:
-
-- Restaurar suelos.
-- Recuperar biodiversidad.
-- Regenerar el ciclo del agua.
-- Reconstruir tejido social.
-- Integrar actividad humana dentro de los ecosistemas.
-
-### Espiral regenerativa
-
-A diferencia de la espiral de erosión, cada ciclo:
-
-- Aumenta biodiversidad.
-- Mejora resiliencia.
-- Genera valor ecológico.
-
-Principios de permacultura:
-
-- Cuidado de la tierra.
-- Cuidado de las personas.
-- Reparto justo.
+### Ecodiseño para la Circularidad
+Criterios clave:
+- **Reparable**: fácil de desmontar y arreglar
+- **Eficiente**: en energía, materiales y capital humano
+- **Multifuncional**: varias funciones o varios usuarios
+- **Residuos = Materia prima**: todo es reutilizable
 
 ---
 
-## 7. Otras economías transformadoras
+### Los Dos Ciclos (Fundación Ellen MacArthur)
 
-- Triple balance (económico + social + ambiental)
-- Empresas SANNAS
-- Certificación B-Corp
-- Economía del Bien Común
-- Economía azul
-- Economía colaborativa
-- Finanzas éticas
+#### Ciclo Biológico
+Materiales **biodegradables** que vuelven a la biosfera:
+- Agricultura y recolección → materias primas bioquímicas
+- **Cascadas**: aprovechar subproductos (textiles de cáscara de naranja, cosméticos de cáscara de patata...)
+- **Compost**: descomposición con oxígeno → alimenta el suelo
+- **Digestión anaerobia**: descomposición sin oxígeno → produce biogás
+- **Biorrefinerías**: transforman residuos en biogás, bioplásticos, fibras, fertilizantes...
 
-Todas buscan impacto positivo neto.
+**Ejemplo – Ganadería Circular**:
+- Aguas arriba: pastoreo rotativo, subproductos agrícolas como alimentación
+- Aguas abajo: deyecciones → biogás → cogeneración (energía eléctrica + térmica) → digestato (abono)
 
----
+**PLA vs PET**:
+- **PLA** (bioplástico): de fuentes renovables, 75% menos CO₂, compostable en 120 días
+- **PET**: de recursos fósiles, 75% más CO₂, solo el 31% se recicla
 
-# UD4.2 – ECONOMÍA CIRCULAR  
-## De residuo a recurso
+#### Ciclo Técnico
+Materiales **no biodegradables** (metales, plásticos) que se mantienen en circuito:
+- Mantener y prolongar vida útil
+- Reutilizar y redistribuir
+- Reacondicionar y remanufacturar
+- Reciclar como último recurso
 
----
+> Cuanto más lejos del usuario, más energía se necesita.
 
-## 1. Las 9R de la economía circular
+**Diseño ideal**: productos con pocos materiales, desmontables, piezas estandarizadas, diseño modular (como LEGO), fabricación aditiva (3D).
 
-Ordenadas por prioridad estratégica:
-
-1. Rediseñar
-2. Reducir
-3. Repartir / Compartir
-4. Reutilizar
-5. Reparar / Restaurar
-6. Renovar
-7. Recuperar
-8. Reciclar
-9. Rechazar
-
-La más importante: **Rediseñar**.  
-La última opción: **Reciclar**.
-
-Cuanto más arriba en la jerarquía, menor consumo energético y mayor conservación de valor.
+**Realidad**: el coche moderno es cada vez más complejo. Los eléctricos necesitan materiales críticos (litio, cobalto, níquel, manganeso, grafito) más difíciles de reciclar.
 
 ---
 
-## 2. Los dos ciclos (Fundación Ellen MacArthur)
+### Materias Primas Críticas
 
-La economía circular distingue dos flujos materiales.
+| Tasa de reciclaje | Ejemplos |
+|-------------------|----------|
+| > 50% | Hierro, aluminio, cobre, plomo, oro |
+| 10–50% | Zinc, estaño, cromo, níquel |
+| < 1% | Tierras raras, litio, galio, indio, tantalio |
 
----
-
-### Ciclo biológico
-
-Materiales biodegradables que vuelven a la biosfera.
-
-Procesos clave:
-
-- Cascadas (uso sucesivo de subproductos)
-- Compostaje (con oxígeno)
-- Digestión anaerobia (sin oxígeno → biogás)
-- Biorrefinerías
-
-Objetivo: reconstruir capital natural.
+- Las **tierras raras** (lantánidos) son esenciales en tecnologías modernas pero con tasa de reciclaje < 1%
+- La UE identificó **30 materias primas críticas** (Raw Material Initiative, 2008 → actualizado 2020)
+- Se miden por **importancia económica** y **riesgo de suministro**
 
 ---
 
-### Ciclo técnico
+### Indicadores de Economía Circular
+- **Reparabilidad**: cantidad de productos reparados
+- **Tasa de reciclaje**: % reciclado vs vertedero/incinerado
+- **Circularidad de materiales**: reciclados vs materia prima virgen
+- **Durabilidad**: vida útil antes de reemplazo
+- **Tasa de retorno**: % devueltos para reúso/reciclaje/reventa
+- **Eficiencia de recursos**: recursos necesarios vs residuos generados
 
-Materiales no biodegradables:
-
-- Metales
-- Plásticos
-- Componentes electrónicos
-
-Estrategias:
-
-- Mantener
-- Reparar
-- Reacondicionar
-- Remanufacturar
-- Reciclar (última fase)
-
-Cuanto más lejos del usuario, mayor energía requerida.
+### Beneficios de la Economía Verde y Circular
+- **Proteger y restaurar**: reincorporación de CO₂ y retención de agua
+- **Reducir dependencia**: menos volatilidad de precios y dependencia de importaciones
+- **Innovación**: aprender de patrones naturales, rediseñar materiales
+- **Calidad por cantidad**: productos más duraderos (ej: si los móviles fueran más desmontables, el coste de refabricarlos se reduciría a la mitad)
+- **Bienestar general**: desarrollo justo, sostenible y colaborativo
 
 ---
 
-## 3. Diseño para la economía circular
+## Resumen Final
 
-Diseño ideal:
-
-- Modular
-- Piezas estandarizadas
-- Fácil desmontaje
-- Materiales homogéneos
-- Fabricación aditiva (impresión 3D)
-- Sustitución de materiales artificiales por naturales cuando sea posible
-
-Problema actual:
-
-- Productos cada vez más complejos.
-- Electrónica integrada.
-- Uso de materias primas críticas.
-
----
-
-## 4. Materias primas críticas
-
-La Unión Europea identifica 30 materias primas críticas.
-
-Características:
-
-- Alta importancia económica.
-- Alto riesgo de suministro.
-- Baja tasa de reciclaje (<1% en muchos casos).
-
-Ejemplos:
-
-- Litio
-- Cobalto
-- Níquel
-- Tierras raras
-- Galio
-- Indio
-- Tantalio
-
-Problema adicional:
-
-"Material en stock" → dispositivos guardados sin recuperar materiales.
-
----
-
-## 5. Indicadores de economía circular
-
-Para medir el avance se utilizan métricas como:
-
-- Reparabilidad
-- Tasa de reciclaje
-- Circularidad de materiales
-- Durabilidad
-- Tasa de retorno
-- Eficiencia de recursos
-
-Medir es imprescindible para gestionar la transición.
-
----
-
-## 6. Beneficios de la economía circular y verde
-
-- Protección y restauración ambiental.
-- Reducción de emisiones.
-- Reducción de dependencia exterior.
-- Innovación tecnológica.
-- Productos más duraderos.
-- Mayor resiliencia económica.
-- Bienestar general.
-
----
-
-# CONCLUSIÓN GLOBAL
-
-La economía lineal genera una espiral de erosión.  
-La economía circular intenta cerrar ciclos y conservar valor.  
-La economía verde amplía el enfoque hacia el bienestar humano.  
-La economía regenerativa busca restaurar y mejorar activamente los ecosistemas.
-
-El punto clave del cambio es el diseño.
-
-No se trata solo de reciclar mejor.  
-Se trata de rediseñar el sistema productivo desde su base.
-
+| | UD4.1 | UD4.2 |
+|---|---|---|
+| Concepto central | Del modelo lineal a las economías transformadoras | De residuo a recurso: cerrar el ciclo |
+| Clave | Ecodiseño (80% del impacto se decide en diseño) | Las 9R (Rediseñar es la más importante; Reciclar, el último recurso) |
+| Espirales | Erosión → Regenerativa | — |
+| Modelos | Verde, Regenerativa, B-Corp, Bien Común... | Ciclo biológico + Ciclo técnico |
+| Reto | Pasar de lineal a sistémico | Materias primas críticas con reciclaje < 1% |

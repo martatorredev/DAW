@@ -370,32 +370,4 @@ Primeros   Era         1er Invierno  Aprendizaje  2º Invierno  Big Data +
 
 ---
 
-## ❓ PREGUNTAS TÍPICAS DE EXAMEN
-
-**1. ¿Qué diferencia hay entre ML y DL?**
-> El ML es una rama de la IA que aprende de datos. El DL es una subcategoría del ML que usa redes neuronales con muchas capas.
-
-**2. ¿Qué es un sesgo algorítmico?**
-> Cuando la IA reproduce o amplifica prejuicios presentes en los datos de entrenamiento, tomando decisiones injustas.
-
-**3. ¿Cuáles son los 4 niveles de riesgo de la Ley Europea de IA?**
-> Inaceptable (prohibida), alto riesgo (con obligaciones), riesgo limitado (debe informar), riesgo mínimo (sin restricciones).
-
-**4. ¿Cuáles son los 3 elementos fundamentales de una IA?**
-> Datos, algoritmos y redes neuronales.
-
-**5. ¿Existe hoy en día la AGI?**
-> No, todavía no existe. Es un objetivo a largo plazo de la investigación en IA.
-
-**6. ¿Qué es la XAI?**
-> IA explicable: sistemas que pueden justificar cómo y por qué tomaron una decisión. Importante en medicina, justicia y educación.
-
-**7. ¿Qué principios debe respetar la IA según la LOPDGDD?**
-> Consentimiento informado, minimización de datos, derecho al olvido y transparencia.
-
-**8. ¿Cuáles son los 4 principios éticos del diseño de sistemas de IA?**
-> Justicia, responsabilidad, explicabilidad y seguridad.
-
----
-
 *Resumen elaborado a partir del material oficial del módulo "Digitalización aplicada a los sectores productivos GS" – Bloque 4: Inteligencia Artificial.*

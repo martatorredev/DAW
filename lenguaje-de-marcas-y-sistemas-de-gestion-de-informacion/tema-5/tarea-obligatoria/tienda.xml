@@ -1,0 +1,3156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tienda nombre="TechMarket" moneda="EUR">
+  <descripcion>Tienda online multicanal especializada en informática, hogar, deporte y cocina.</descripcion>
+  <catalogo>
+    <categoria nombre="Cocina">
+      <producto id="P019">
+        <nombre>Juego de cuchillos de chef</nombre>
+        <marca>Orion</marca>
+        <precio>79.82</precio>
+        <stock>125</stock>
+        <ean>842137651678</ean>
+      </producto>
+      <producto id="P020">
+        <nombre>Sartén antiadherente 28 cm</nombre>
+        <marca>Nexo</marca>
+        <precio>25.99</precio>
+        <stock>151</stock>
+        <ean>847801222128</ean>
+      </producto>
+      <producto id="P021">
+        <nombre>Batería de cocina 8 piezas</nombre>
+        <marca>Forma</marca>
+        <precio>134.75</precio>
+        <stock>43</stock>
+        <ean>841470939445</ean>
+      </producto>
+      <producto id="P022">
+        <nombre>Tostadora de 2 ranuras</nombre>
+        <marca>Nova</marca>
+        <precio>33.72</precio>
+        <stock>116</stock>
+        <ean>846947530309</ean>
+      </producto>
+      <producto id="P023">
+        <nombre>Batidora de vaso</nombre>
+        <marca>Nexo</marca>
+        <precio>52.23</precio>
+        <stock>127</stock>
+        <ean>849639245200</ean>
+      </producto>
+      <producto id="P024">
+        <nombre>Tupper hermético set x10</nombre>
+        <marca>Nexo</marca>
+        <precio>20.56</precio>
+        <stock>145</stock>
+        <ean>842461042543</ean>
+      </producto>
+      <producto id="P031">
+        <nombre>Cuchara de madera set x6</nombre>
+        <marca>Nexo</marca>
+        <precio>15.26</precio>
+        <stock>52</stock>
+        <ean>847900268326</ean>
+      </producto>
+      <producto id="P032">
+        <nombre>Báscula digital de cocina</nombre>
+        <marca>Nexo</marca>
+        <precio>26.03</precio>
+        <stock>61</stock>
+        <ean>846898796145</ean>
+      </producto>
+    </categoria>
+    <categoria nombre="Deporte">
+      <producto id="P013">
+        <nombre>Zapatillas de running</nombre>
+        <marca>Orion</marca>
+        <precio>84.68</precio>
+        <stock>101</stock>
+        <ean>846884882440</ean>
+      </producto>
+      <producto id="P014">
+        <nombre>Reloj deportivo inteligente</nombre>
+        <marca>Nova</marca>
+        <precio>137.78</precio>
+        <stock>76</stock>
+        <ean>844131575764</ean>
+      </producto>
+      <producto id="P015">
+        <nombre>Mancuernas ajustables</nombre>
+        <marca>Nexo</marca>
+        <precio>108.38</precio>
+        <stock>105</stock>
+        <ean>843392080953</ean>
+      </producto>
+      <producto id="P016">
+        <nombre>Esterilla de yoga</nombre>
+        <marca>Zenit</marca>
+        <precio>21.41</precio>
+        <stock>22</stock>
+        <ean>844529615275</ean>
+      </producto>
+      <producto id="P017">
+        <nombre>Botella térmica deportiva</nombre>
+        <marca>Nexo</marca>
+        <precio>19.52</precio>
+        <stock>110</stock>
+        <ean>841284277889</ean>
+      </producto>
+      <producto id="P018">
+        <nombre>Bicicleta estática plegable</nombre>
+        <marca>Pulse</marca>
+        <precio>321.22</precio>
+        <stock>153</stock>
+        <ean>847439149233</ean>
+      </producto>
+      <producto id="P029">
+        <nombre>Casco para bicicleta urbano</nombre>
+        <marca>Nova</marca>
+        <precio>35.85</precio>
+        <stock>30</stock>
+        <ean>848438486479</ean>
+      </producto>
+      <producto id="P030">
+        <nombre>Bandas elásticas de resistencia</nombre>
+        <marca>Orion</marca>
+        <precio>17.00</precio>
+        <stock>42</stock>
+        <ean>848128575500</ean>
+      </producto>
+    </categoria>
+    <categoria nombre="Hogar">
+      <producto id="P007">
+        <nombre>Aspiradora sin cable</nombre>
+        <marca>Pulse</marca>
+        <precio>114.39</precio>
+        <stock>32</stock>
+        <ean>848934927891</ean>
+      </producto>
+      <producto id="P008">
+        <nombre>Freidora de aire 5 L</nombre>
+        <marca>Forma</marca>
+        <precio>89.08</precio>
+        <stock>19</stock>
+        <ean>843303082117</ean>
+      </producto>
+      <producto id="P009">
+        <nombre>Cafetera automática</nombre>
+        <marca>Nova</marca>
+        <precio>291.61</precio>
+        <stock>104</stock>
+        <ean>847665963761</ean>
+      </producto>
+      <producto id="P010">
+        <nombre>Robot de cocina multifunción</nombre>
+        <marca>Zenit</marca>
+        <precio>223.62</precio>
+        <stock>100</stock>
+        <ean>844026113008</ean>
+      </producto>
+      <producto id="P011">
+        <nombre>Juego de sábanas algodón</nombre>
+        <marca>Nexo</marca>
+        <precio>25.87</precio>
+        <stock>66</stock>
+        <ean>845231494220</ean>
+      </producto>
+      <producto id="P012">
+        <nombre>Lámpara LED regulable</nombre>
+        <marca>Vertex</marca>
+        <precio>25.48</precio>
+        <stock>33</stock>
+        <ean>846488854841</ean>
+      </producto>
+      <producto id="P027">
+        <nombre>Robot aspirador</nombre>
+        <marca>Aster</marca>
+        <precio>203.43</precio>
+        <stock>51</stock>
+        <ean>847867414708</ean>
+      </producto>
+      <producto id="P028">
+        <nombre>Cesto organizador plegable</nombre>
+        <marca>Pulse</marca>
+        <precio>16.48</precio>
+        <stock>38</stock>
+        <ean>842320763135</ean>
+      </producto>
+    </categoria>
+    <categoria nombre="Informática">
+      <producto id="P001">
+        <nombre>Ratón inalámbrico ergonómico</nombre>
+        <marca>Nexo</marca>
+        <precio>26.42</precio>
+        <stock>14</stock>
+        <ean>842051802512</ean>
+      </producto>
+      <producto id="P002">
+        <nombre>Teclado mecánico retroiluminado</nombre>
+        <marca>Nova</marca>
+        <precio>53.67</precio>
+        <stock>34</stock>
+        <ean>847831113321</ean>
+      </producto>
+      <producto id="P003">
+        <nombre>Auriculares Bluetooth con cancelación de ruido</nombre>
+        <marca>Zenit</marca>
+        <precio>77.36</precio>
+        <stock>31</stock>
+        <ean>843585650756</ean>
+      </producto>
+      <producto id="P004">
+        <nombre>Monitor 27" Full HD IPS</nombre>
+        <marca>Vertex</marca>
+        <precio>195.65</precio>
+        <stock>147</stock>
+        <ean>846241752544</ean>
+      </producto>
+      <producto id="P005">
+        <nombre>Disco SSD 1 TB NVMe</nombre>
+        <marca>Orion</marca>
+        <precio>78.23</precio>
+        <stock>9</stock>
+        <ean>848293453178</ean>
+      </producto>
+      <producto id="P006">
+        <nombre>Webcam Full HD con micrófono</nombre>
+        <marca>Zenit</marca>
+        <precio>38.40</precio>
+        <stock>47</stock>
+        <ean>842445662585</ean>
+      </producto>
+      <producto id="P025">
+        <nombre>Hub USB-C 7 en 1</nombre>
+        <marca>Forma</marca>
+        <precio>43.73</precio>
+        <stock>50</stock>
+        <ean>848385972235</ean>
+      </producto>
+      <producto id="P026">
+        <nombre>Base refrigeradora para portátil</nombre>
+        <marca>Nova</marca>
+        <precio>41.57</precio>
+        <stock>55</stock>
+        <ean>843615507143</ean>
+      </producto>
+    </categoria>
+  </catalogo>
+  <clientes>
+    <cliente id="C001" segmento="ocasional">
+      <nombre>Tomás Molina</nombre>
+      <email>tomas.molina01@example.com</email>
+      <telefono>+34 750 667 335</telefono>
+      <direccion>
+        <calle>Avenida de la Constitución, 58</calle>
+        <ciudad>Barcelona</ciudad>
+        <codigoPostal>08001</codigoPostal>
+      </direccion>
+      <fechaAlta>2023-03-07</fechaAlta>
+    </cliente>
+    <cliente id="C002" segmento="ocasional">
+      <nombre>Paula García</nombre>
+      <email>paula.garcia02@example.com</email>
+      <telefono>+34 608 980 438</telefono>
+      <direccion>
+        <calle>Calle San Juan, 162</calle>
+        <ciudad>Barcelona</ciudad>
+        <codigoPostal>08001</codigoPostal>
+      </direccion>
+      <fechaAlta>2023-03-02</fechaAlta>
+    </cliente>
+    <cliente id="C003" segmento="ocasional">
+      <nombre>Lucía Delgado</nombre>
+      <email>lucia.delgado03@example.com</email>
+      <telefono>+34 633 840 684</telefono>
+      <direccion>
+        <calle>Carrer de València, 172</calle>
+        <ciudad>Sevilla</ciudad>
+        <codigoPostal>41001</codigoPostal>
+      </direccion>
+      <fechaAlta>2024-05-12</fechaAlta>
+    </cliente>
+    <cliente id="C004" segmento="ocasional">
+      <nombre>Alicia Díaz</nombre>
+      <email>alicia.diaz04@example.com</email>
+      <telefono>+34 768 541 462</telefono>
+      <direccion>
+        <calle>Avenida del Puerto, 105</calle>
+        <ciudad>Murcia</ciudad>
+        <codigoPostal>30001</codigoPostal>
+      </direccion>
+      <fechaAlta>2023-07-14</fechaAlta>
+    </cliente>
+    <cliente id="C005" segmento="frecuente">
+      <nombre>Daniel Navarro</nombre>
+      <email>daniel.navarro05@example.com</email>
+      <telefono>+34 765 200 162</telefono>
+      <direccion>
+        <calle>Calle Larios, 187</calle>
+        <ciudad>Murcia</ciudad>
+        <codigoPostal>30001</codigoPostal>
+      </direccion>
+      <fechaAlta>2023-02-25</fechaAlta>
+    </cliente>
+    <cliente id="C006" segmento="ocasional">
+      <nombre>Adrián Cortés</nombre>
+      <email>adrian.cortes06@example.com</email>
+      <telefono>+34 737 559 243</telefono>
+      <direccion>
+        <calle>Avenida del Puerto, 28</calle>
+        <ciudad>Zaragoza</ciudad>
+        <codigoPostal>50001</codigoPostal>
+      </direccion>
+      <fechaAlta>2023-09-12</fechaAlta>
+    </cliente>
+    <cliente id="C007" segmento="vip">
+      <nombre>Daniel Gómez</nombre>
+      <email>daniel.gomez07@example.com</email>
+      <telefono>+34 713 927 982</telefono>
+      <direccion>
+        <calle>Avenida de América, 64</calle>
+        <ciudad>Bilbao</ciudad>
+        <codigoPostal>48001</codigoPostal>
+      </direccion>
+      <fechaAlta>2025-06-14</fechaAlta>
+    </cliente>
+    <cliente id="C008" segmento="ocasional">
+      <nombre>Francisco Sánchez</nombre>
+      <email>francisco.sanchez08@example.com</email>
+      <telefono>+34 623 871 969</telefono>
+      <direccion>
+        <calle>Avenida Blasco Ibáñez, 139</calle>
+        <ciudad>Madrid</ciudad>
+        <codigoPostal>28001</codigoPostal>
+      </direccion>
+      <fechaAlta>2025-05-06</fechaAlta>
+    </cliente>
+    <cliente id="C009" segmento="frecuente">
+      <nombre>Álvaro Gómez</nombre>
+      <email>alvaro.gomez09@example.com</email>
+      <telefono>+34 615 268 488</telefono>
+      <direccion>
+        <calle>Avenida de América, 124</calle>
+        <ciudad>Málaga</ciudad>
+        <codigoPostal>29001</codigoPostal>
+      </direccion>
+      <fechaAlta>2023-08-07</fechaAlta>
+    </cliente>
+    <cliente id="C010" segmento="ocasional">
+      <nombre>Ana Ruiz</nombre>
+      <email>ana.ruiz10@example.com</email>
+      <telefono>+34 787 902 669</telefono>
+      <direccion>
+        <calle>Avenida del Puerto, 117</calle>
+        <ciudad>Bilbao</ciudad>
+        <codigoPostal>48001</codigoPostal>
+      </direccion>
+      <fechaAlta>2023-10-20</fechaAlta>
+    </cliente>
+    <cliente id="C011" segmento="ocasional">
+      <nombre>Jorge Pérez</nombre>
+      <email>jorge.perez11@example.com</email>
+      <telefono>+34 738 162 865</telefono>
+      <direccion>
+        <calle>Carrer de València, 56</calle>
+        <ciudad>Sevilla</ciudad>
+        <codigoPostal>41001</codigoPostal>
+      </direccion>
+      <fechaAlta>2023-03-01</fechaAlta>
+    </cliente>
+    <cliente id="C012" segmento="vip">
+      <nombre>Noelia López</nombre>
+      <email>noelia.lopez12@example.com</email>
+      <telefono>+34 735 261 158</telefono>
+      <direccion>
+        <calle>Rambla Nova, 123</calle>
+        <ciudad>Madrid</ciudad>
+        <codigoPostal>28001</codigoPostal>
+      </direccion>
+      <fechaAlta>2024-05-29</fechaAlta>
+    </cliente>
+    <cliente id="C013" segmento="frecuente">
+      <nombre>Lidia Martínez</nombre>
+      <email>lidia.martinez13@example.com</email>
+      <telefono>+34 660 513 222</telefono>
+      <direccion>
+        <calle>Gran Vía, 153</calle>
+        <ciudad>Valencia</ciudad>
+        <codigoPostal>46001</codigoPostal>
+      </direccion>
+      <fechaAlta>2023-03-11</fechaAlta>
+    </cliente>
+    <cliente id="C014" segmento="ocasional">
+      <nombre>Álvaro Ramos</nombre>
+      <email>alvaro.ramos14@example.com</email>
+      <telefono>+34 749 678 635</telefono>
+      <direccion>
+        <calle>Calle Mayor, 159</calle>
+        <ciudad>Valladolid</ciudad>
+        <codigoPostal>47001</codigoPostal>
+      </direccion>
+      <fechaAlta>2023-03-25</fechaAlta>
+    </cliente>
+    <cliente id="C015" segmento="ocasional">
+      <nombre>Noelia Torres</nombre>
+      <email>noelia.torres15@example.com</email>
+      <telefono>+34 701 234 787</telefono>
+      <direccion>
+        <calle>Avenida Blasco Ibáñez, 184</calle>
+        <ciudad>Sevilla</ciudad>
+        <codigoPostal>41001</codigoPostal>
+      </direccion>
+      <fechaAlta>2023-11-18</fechaAlta>
+    </cliente>
+    <cliente id="C016" segmento="ocasional">
+      <nombre>Rubén Molina</nombre>
+      <email>ruben.molina16@example.com</email>
+      <telefono>+34 744 202 175</telefono>
+      <direccion>
+        <calle>Avenida del Puerto, 19</calle>
+        <ciudad>Zaragoza</ciudad>
+        <codigoPostal>50001</codigoPostal>
+      </direccion>
+      <fechaAlta>2023-01-10</fechaAlta>
+    </cliente>
+    <cliente id="C017" segmento="frecuente">
+      <nombre>Eva Fernández</nombre>
+      <email>eva.fernandez17@example.com</email>
+      <telefono>+34 662 478 391</telefono>
+      <direccion>
+        <calle>Carrer de València, 34</calle>
+        <ciudad>Alicante</ciudad>
+        <codigoPostal>03001</codigoPostal>
+      </direccion>
+      <fechaAlta>2023-12-24</fechaAlta>
+    </cliente>
+    <cliente id="C018" segmento="vip">
+      <nombre>Marta Molina</nombre>
+      <email>marta.molina18@example.com</email>
+      <telefono>+34 767 641 108</telefono>
+      <direccion>
+        <calle>Calle San Juan, 78</calle>
+        <ciudad>Alicante</ciudad>
+        <codigoPostal>03001</codigoPostal>
+      </direccion>
+      <fechaAlta>2024-09-18</fechaAlta>
+    </cliente>
+    <cliente id="C019" segmento="ocasional">
+      <nombre>Francisco Romero</nombre>
+      <email>francisco.romero19@example.com</email>
+      <telefono>+34 627 860 666</telefono>
+      <direccion>
+        <calle>Gran Vía, 35</calle>
+        <ciudad>Gijón</ciudad>
+        <codigoPostal>33201</codigoPostal>
+      </direccion>
+      <fechaAlta>2023-09-28</fechaAlta>
+    </cliente>
+    <cliente id="C020" segmento="ocasional">
+      <nombre>Sergio Torres</nombre>
+      <email>sergio.torres20@example.com</email>
+      <telefono>+34 775 749 973</telefono>
+      <direccion>
+        <calle>Rambla Nova, 54</calle>
+        <ciudad>Bilbao</ciudad>
+        <codigoPostal>48001</codigoPostal>
+      </direccion>
+      <fechaAlta>2025-01-04</fechaAlta>
+    </cliente>
+    <cliente id="C021" segmento="frecuente">
+      <nombre>Irene Delgado</nombre>
+      <email>irene.delgado21@example.com</email>
+      <telefono>+34 670 145 103</telefono>
+      <direccion>
+        <calle>Carrer de València, 14</calle>
+        <ciudad>Murcia</ciudad>
+        <codigoPostal>30001</codigoPostal>
+      </direccion>
+      <fechaAlta>2023-04-05</fechaAlta>
+    </cliente>
+    <cliente id="C022" segmento="ocasional">
+      <nombre>Hugo Pérez</nombre>
+      <email>hugo.perez22@example.com</email>
+      <telefono>+34 780 537 674</telefono>
+      <direccion>
+        <calle>Carrer de València, 42</calle>
+        <ciudad>Gijón</ciudad>
+        <codigoPostal>33201</codigoPostal>
+      </direccion>
+      <fechaAlta>2025-01-29</fechaAlta>
+    </cliente>
+    <cliente id="C023" segmento="ocasional">
+      <nombre>Ana Sánchez</nombre>
+      <email>ana.sanchez23@example.com</email>
+      <telefono>+34 694 696 665</telefono>
+      <direccion>
+        <calle>Calle San Juan, 39</calle>
+        <ciudad>Barcelona</ciudad>
+        <codigoPostal>08001</codigoPostal>
+      </direccion>
+      <fechaAlta>2024-07-12</fechaAlta>
+    </cliente>
+    <cliente id="C024" segmento="frecuente">
+      <nombre>Sergio Navarro</nombre>
+      <email>sergio.navarro24@example.com</email>
+      <telefono>+34 610 466 315</telefono>
+      <direccion>
+        <calle>Calle Mayor, 79</calle>
+        <ciudad>Valencia</ciudad>
+        <codigoPostal>46001</codigoPostal>
+      </direccion>
+      <fechaAlta>2024-01-09</fechaAlta>
+    </cliente>
+    <cliente id="C025" segmento="ocasional">
+      <nombre>Álvaro Santos</nombre>
+      <email>alvaro.santos25@example.com</email>
+      <telefono>+34 758 867 258</telefono>
+      <direccion>
+        <calle>Paseo de la Castellana, 144</calle>
+        <ciudad>Barcelona</ciudad>
+        <codigoPostal>08001</codigoPostal>
+      </direccion>
+      <fechaAlta>2025-06-14</fechaAlta>
+    </cliente>
+    <cliente id="C026" segmento="frecuente">
+      <nombre>Álvaro Gómez</nombre>
+      <email>alvaro.gomez26@example.com</email>
+      <telefono>+34 685 901 521</telefono>
+      <direccion>
+        <calle>Calle Serrano, 7</calle>
+        <ciudad>Valencia</ciudad>
+        <codigoPostal>46001</codigoPostal>
+      </direccion>
+      <fechaAlta>2023-07-03</fechaAlta>
+    </cliente>
+    <cliente id="C027" segmento="ocasional">
+      <nombre>Álvaro Torres</nombre>
+      <email>alvaro.torres27@example.com</email>
+      <telefono>+34 609 979 581</telefono>
+      <direccion>
+        <calle>Avenida del Puerto, 180</calle>
+        <ciudad>Valencia</ciudad>
+        <codigoPostal>46001</codigoPostal>
+      </direccion>
+      <fechaAlta>2023-04-21</fechaAlta>
+    </cliente>
+    <cliente id="C028" segmento="frecuente">
+      <nombre>Paula Fernández</nombre>
+      <email>paula.fernandez28@example.com</email>
+      <telefono>+34 658 328 124</telefono>
+      <direccion>
+        <calle>Paseo de la Castellana, 79</calle>
+        <ciudad>Murcia</ciudad>
+        <codigoPostal>30001</codigoPostal>
+      </direccion>
+      <fechaAlta>2025-04-20</fechaAlta>
+    </cliente>
+    <cliente id="C029" segmento="ocasional">
+      <nombre>Sofía Ruiz</nombre>
+      <email>sofia.ruiz29@example.com</email>
+      <telefono>+34 764 621 509</telefono>
+      <direccion>
+        <calle>Carrer de València, 18</calle>
+        <ciudad>Zaragoza</ciudad>
+        <codigoPostal>50001</codigoPostal>
+      </direccion>
+      <fechaAlta>2025-03-02</fechaAlta>
+    </cliente>
+    <cliente id="C030" segmento="ocasional">
+      <nombre>Eva Vázquez</nombre>
+      <email>eva.vazquez30@example.com</email>
+      <telefono>+34 667 139 211</telefono>
+      <direccion>
+        <calle>Gran Vía, 67</calle>
+        <ciudad>Madrid</ciudad>
+        <codigoPostal>28001</codigoPostal>
+      </direccion>
+      <fechaAlta>2023-07-02</fechaAlta>
+    </cliente>
+    <cliente id="C031" segmento="frecuente">
+      <nombre>Daniel Castro</nombre>
+      <email>daniel.castro31@example.com</email>
+      <telefono>+34 730 218 494</telefono>
+      <direccion>
+        <calle>Avenida del Puerto, 81</calle>
+        <ciudad>A Coruña</ciudad>
+        <codigoPostal>15001</codigoPostal>
+      </direccion>
+      <fechaAlta>2024-03-22</fechaAlta>
+    </cliente>
+    <cliente id="C032" segmento="ocasional">
+      <nombre>Sofía Torres</nombre>
+      <email>sofia.torres32@example.com</email>
+      <telefono>+34 737 803 836</telefono>
+      <direccion>
+        <calle>Calle San Juan, 112</calle>
+        <ciudad>Madrid</ciudad>
+        <codigoPostal>28001</codigoPostal>
+      </direccion>
+      <fechaAlta>2023-01-02</fechaAlta>
+    </cliente>
+    <cliente id="C033" segmento="frecuente">
+      <nombre>Sofía Castro</nombre>
+      <email>sofia.castro33@example.com</email>
+      <telefono>+34 769 968 227</telefono>
+      <direccion>
+        <calle>Gran Vía, 171</calle>
+        <ciudad>Málaga</ciudad>
+        <codigoPostal>29001</codigoPostal>
+      </direccion>
+      <fechaAlta>2023-12-05</fechaAlta>
+    </cliente>
+    <cliente id="C034" segmento="ocasional">
+      <nombre>Rubén Delgado</nombre>
+      <email>ruben.delgado34@example.com</email>
+      <telefono>+34 675 667 230</telefono>
+      <direccion>
+        <calle>Avenida Blasco Ibáñez, 105</calle>
+        <ciudad>Bilbao</ciudad>
+        <codigoPostal>48001</codigoPostal>
+      </direccion>
+      <fechaAlta>2023-12-01</fechaAlta>
+    </cliente>
+    <cliente id="C035" segmento="vip">
+      <nombre>Sofía Navarro</nombre>
+      <email>sofia.navarro35@example.com</email>
+      <telefono>+34 757 682 408</telefono>
+      <direccion>
+        <calle>Calle Serrano, 174</calle>
+        <ciudad>Gijón</ciudad>
+        <codigoPostal>33201</codigoPostal>
+      </direccion>
+      <fechaAlta>2025-02-05</fechaAlta>
+    </cliente>
+    <cliente id="C036" segmento="ocasional">
+      <nombre>Adrián Serrano</nombre>
+      <email>adrian.serrano36@example.com</email>
+      <telefono>+34 748 721 770</telefono>
+      <direccion>
+        <calle>Carrer de València, 74</calle>
+        <ciudad>Madrid</ciudad>
+        <codigoPostal>28001</codigoPostal>
+      </direccion>
+      <fechaAlta>2023-08-04</fechaAlta>
+    </cliente>
+  </clientes>
+  <pedidos>
+    <pedido id="O0001" clienteRef="C030" estado="completado">
+      <fecha>2024-06-15</fecha>
+      <envio>24h</envio>
+      <pago>Bizum</pago>
+      <lineas>
+        <linea productoRef="P004">
+          <nombreProducto>Monitor 27" Full HD IPS</nombreProducto>
+          <cantidad>2</cantidad>
+          <precioUnitario>195.65</precioUnitario>
+          <descuento>0</descuento>
+          <importeLinea>391.30</importeLinea>
+        </linea>
+        <linea productoRef="P019">
+          <nombreProducto>Juego de cuchillos de chef</nombreProducto>
+          <cantidad>2</cantidad>
+          <precioUnitario>79.82</precioUnitario>
+          <descuento>0</descuento>
+          <importeLinea>159.64</importeLinea>
+        </linea>
+        <linea productoRef="P022">
+          <nombreProducto>Tostadora de 2 ranuras</nombreProducto>
+          <cantidad>1</cantidad>
+          <precioUnitario>33.72</precioUnitario>
+          <descuento>0</descuento>
+          <importeLinea>33.72</importeLinea>
+        </linea>
+      </lineas>
+      <total>584.66</total>
+    </pedido>
+    <pedido id="O0002" clienteRef="C005" estado="completado">
+      <fecha>2024-09-02</fecha>
+      <envio>24h</envio>
+      <pago>Bizum</pago>
+      <lineas>
+        <linea productoRef="P026">
+          <nombreProducto>Base refrigeradora para portátil</nombreProducto>
+          <cantidad>4</cantidad>
+          <precioUnitario>41.57</precioUnitario>
+          <descuento>0</descuento>
+          <importeLinea>166.28</importeLinea>
+        </linea>
+        <linea productoRef="P015">
+          <nombreProducto>Mancuernas ajustables</nombreProducto>
+          <cantidad>5</cantidad>
+          <precioUnitario>108.38</precioUnitario>
+          <descuento>0</descuento>
+          <importeLinea>541.90</importeLinea>
+        </linea>
+        <linea productoRef="P010">
+          <nombreProducto>Robot de cocina multifunción</nombreProducto>
+          <cantidad>1</cantidad>
+          <precioUnitario>223.62</precioUnitario>
+          <descuento>5</descuento>
+          <importeLinea>212.44</importeLinea>
+        </linea>
+        <linea productoRef="P001">
+          <nombreProducto>Ratón inalámbrico ergonómico</nombreProducto>
+          <cantidad>2</cantidad>
+          <precioUnitario>26.42</precioUnitario>
+          <descuento>5</descuento>
+          <importeLinea>50.20</importeLinea>
+        </linea>
+        <linea productoRef="P007">
+          <nombreProducto>Aspiradora sin cable</nombreProducto>
+          <cantidad>5</cantidad>
+          <precioUnitario>114.39</precioUnitario>
+          <descuento>10</descuento>
+          <importeLinea>514.76</importeLinea>
+        </linea>
+      </lineas>
+      <total>1485.57</total>
+    </pedido>
+    <pedido id="O0003" clienteRef="C021" estado="enviado">
+      <fecha>2024-11-02</fecha>
+      <envio>Express</envio>
+      <pago>Bizum</pago>
+      <lineas>
+        <linea productoRef="P004">
+          <nombreProducto>Monitor 27" Full HD IPS</nombreProducto>
+          <cantidad>3</cantidad>
+          <precioUnitario>195.65</precioUnitario>
+          <descuento>10</descuento>
+          <importeLinea>528.26</importeLinea>
+        </linea>
+        <linea productoRef="P032">
+          <nombreProducto>Báscula digital de cocina</nombreProducto>
+          <cantidad>4</cantidad>
+          <precioUnitario>26.03</precioUnitario>
+          <descuento>15</descuento>
+          <importeLinea>88.50</importeLinea>
+        </linea>
+        <linea productoRef="P006">
+          <nombreProducto>Webcam Full HD con micrófono</nombreProducto>
+          <cantidad>2</cantidad>
+          <precioUnitario>38.40</precioUnitario>
+          <descuento>0</descuento>
+          <importeLinea>76.80</importeLinea>
+        </linea>
+        <linea productoRef="P024">
+          <nombreProducto>Tupper hermético set x10</nombreProducto>
+          <cantidad>4</cantidad>
+          <precioUnitario>20.56</precioUnitario>
+          <descuento>0</descuento>
+          <importeLinea>82.24</importeLinea>
+        </linea>
+        <linea productoRef="P028">
+          <nombreProducto>Cesto organizador plegable</nombreProducto>
+          <cantidad>3</cantidad>
+          <precioUnitario>16.48</precioUnitario>
+          <descuento>0</descuento>
+          <importeLinea>49.44</importeLinea>
+        </linea>
+        <linea productoRef="P016">
+          <nombreProducto>Esterilla de yoga</nombreProducto>
+          <cantidad>3</cantidad>
+          <precioUnitario>21.41</precioUnitario>
+          <descuento>0</descuento>
+          <importeLinea>64.23</importeLinea>
+        </linea>
+      </lineas>
+      <total>889.47</total>
+    </pedido>
+    <pedido id="O0004" clienteRef="C035" estado="completado">
+      <fecha>2024-06-14</fecha>
+      <envio>24h</envio>
+      <pago>PayPal</pago>
+      <lineas>
+        <linea productoRef="P013">
+          <nombreProducto>Zapatillas de running</nombreProducto>
+          <cantidad>4</cantidad>
+          <precioUnitario>84.68</precioUnitario>
+          <descuento>10</descuento>
+          <importeLinea>304.85</importeLinea>
+        </linea>
+        <linea productoRef="P013">
+          <nombreProducto>Zapatillas de running</nombreProducto>
+          <cantidad>1</cantidad>
+          <precioUnitario>84.68</precioUnitario>
+          <descuento>10</descuento>
+          <importeLinea>76.21</importeLinea>
+        </linea>
+        <linea productoRef="P005">
+          <nombreProducto>Disco SSD 1 TB NVMe</nombreProducto>
+          <cantidad>4</cantidad>
+          <precioUnitario>78.23</precioUnitario>
+          <descuento>5</descuento>
+          <importeLinea>297.27</importeLinea>
+        </linea>
+        <linea productoRef="P027">
+          <nombreProducto>Robot aspirador</nombreProducto>
+          <cantidad>1</cantidad>
+          <precioUnitario>203.43</precioUnitario>
+          <descuento>0</descuento>
+          <importeLinea>203.43</importeLinea>
+        </linea>
+        <linea productoRef="P022">
+          <nombreProducto>Tostadora de 2 ranuras</nombreProducto>
+          <cantidad>3</cantidad>
+          <precioUnitario>33.72</precioUnitario>
+          <descuento>5</descuento>
+          <importeLinea>96.10</importeLinea>
+        </linea>
+      </lineas>
+      <total>977.87</total>
+    </pedido>
+    <pedido id="O0005" clienteRef="C027" estado="completado">
+      <fecha>2025-03-14</fecha>
+      <envio>24h</envio>
+      <pago>Bizum</pago>
+      <lineas>
+        <linea productoRef="P006">
+          <nombreProducto>Webcam Full HD con micrófono</nombreProducto>
+          <cantidad>4</cantidad>
+          <precioUnitario>38.40</precioUnitario>
+          <descuento>15</descuento>
+          <importeLinea>130.56</importeLinea>
+        </linea>
+        <linea productoRef="P028">
+          <nombreProducto>Cesto organizador plegable</nombreProducto>
+          <cantidad>2</cantidad>
+          <precioUnitario>16.48</precioUnitario>
+          <descuento>5</descuento>
+          <importeLinea>31.31</importeLinea>
+        </linea>
+        <linea productoRef="P032">
+          <nombreProducto>Báscula digital de cocina</nombreProducto>
+          <cantidad>2</cantidad>
+          <precioUnitario>26.03</precioUnitario>
+          <descuento>10</descuento>
+          <importeLinea>46.85</importeLinea>
+        </linea>
+      </lineas>
+      <total>208.73</total>
+    </pedido>
+    <pedido id="O0006" clienteRef="C002" estado="enviado">
+      <fecha>2024-10-02</fecha>
+      <envio>Estándar</envio>
+      <pago>Tarjeta</pago>
+      <lineas>
+        <linea productoRef="P004">
+          <nombreProducto>Monitor 27" Full HD IPS</nombreProducto>
+          <cantidad>3</cantidad>
+          <precioUnitario>195.65</precioUnitario>
+          <descuento>5</descuento>
+          <importeLinea>557.60</importeLinea>
+        </linea>
+        <linea productoRef="P030">
+          <nombreProducto>Bandas elásticas de resistencia</nombreProducto>
+          <cantidad>3</cantidad>
+          <precioUnitario>17.00</precioUnitario>
+          <descuento>5</descuento>
+          <importeLinea>48.45</importeLinea>
+        </linea>
+        <linea productoRef="P012">
+          <nombreProducto>Lámpara LED regulable</nombreProducto>
+          <cantidad>3</cantidad>
+          <precioUnitario>25.48</precioUnitario>
+          <descuento>0</descuento>
+          <importeLinea>76.44</importeLinea>
+        </linea>
+        <linea productoRef="P004">
+          <nombreProducto>Monitor 27" Full HD IPS</nombreProducto>
+          <cantidad>4</cantidad>
+          <precioUnitario>195.65</precioUnitario>
+          <descuento>0</descuento>
+          <importeLinea>782.60</importeLinea>
+        </linea>
+        <linea productoRef="P017">
+          <nombreProducto>Botella térmica deportiva</nombreProducto>
+          <cantidad>5</cantidad>
+          <precioUnitario>19.52</precioUnitario>
+          <descuento>0</descuento>
+          <importeLinea>97.60</importeLinea>
+        </linea>
+      </lineas>
+      <total>1562.69</total>
+    </pedido>
+    <pedido id="O0007" clienteRef="C015" estado="completado">
+      <fecha>2024-06-30</fecha>
+      <envio>Estándar</envio>
+      <pago>Tarjeta</pago>
+      <lineas>
+        <linea productoRef="P014">
+          <nombreProducto>Reloj deportivo inteligente</nombreProducto>
+          <cantidad>5</cantidad>
+          <precioUnitario>137.78</precioUnitario>
+          <descuento>0</descuento>
+          <importeLinea>688.90</importeLinea>
+        </linea>
+        <linea productoRef="P002">
+          <nombreProducto>Teclado mecánico retroiluminado</nombreProducto>
+          <cantidad>4</cantidad>
+          <precioUnitario>53.67</precioUnitario>
+          <descuento>15</descuento>
+          <importeLinea>182.48</importeLinea>
+        </linea>
+        <linea productoRef="P010">
+          <nombreProducto>Robot de cocina multifunción</nombreProducto>
+          <cantidad>3</cantidad>
+          <precioUnitario>223.62</precioUnitario>
+          <descuento>0</descuento>
+          <importeLinea>670.86</importeLinea>
+        </linea>
+      </lineas>
+      <total>1542.24</total>
+    </pedido>
+    <pedido id="O0008" clienteRef="C008" estado="completado">
+      <fecha>2024-03-28</fecha>
+      <envio>24h</envio>
+      <pago>Transferencia</pago>
+      <lineas>
+        <linea productoRef="P013">
+          <nombreProducto>Zapatillas de running</nombreProducto>
+          <cantidad>4</cantidad>
+          <precioUnitario>84.68</precioUnitario>
+          <descuento>15</descuento>
+          <importeLinea>287.91</importeLinea>
+        </linea>
+        <linea productoRef="P020">
+          <nombreProducto>Sartén antiadherente 28 cm</nombreProducto>
+          <cantidad>2</cantidad>
+          <precioUnitario>25.99</precioUnitario>
+          <descuento>0</descuento>
+          <importeLinea>51.98</importeLinea>
+        </linea>
+      </lineas>
+      <total>339.89</total>
+    </pedido>
+    <pedido id="O0009" clienteRef="C016" estado="completado">
+      <fecha>2024-11-01</fecha>
+      <envio>Punto de recogida</envio>
+      <pago>Tarjeta</pago>
+      <lineas>
+        <linea productoRef="P006">
+          <nombreProducto>Webcam Full HD con micrófono</nombreProducto>
+          <cantidad>4</cantidad>
+          <precioUnitario>38.40</precioUnitario>
+          <descuento>0</descuento>
+          <importeLinea>153.60</importeLinea>
+        </linea>
+        <linea productoRef="P013">
+          <nombreProducto>Zapatillas de running</nombreProducto>
+          <cantidad>4</cantidad>
+          <precioUnitario>84.68</precioUnitario>
+          <descuento>0</descuento>
+          <importeLinea>338.72</importeLinea>
+        </linea>
+        <linea productoRef="P018">
+          <nombreProducto>Bicicleta estática plegable</nombreProducto>
+          <cantidad>4</cantidad>
+          <precioUnitario>321.22</precioUnitario>
+          <descuento>15</descuento>
+          <importeLinea>1092.15</importeLinea>
+        </linea>
+        <linea productoRef="P014">
+          <nombreProducto>Reloj deportivo inteligente</nombreProducto>
+          <cantidad>2</cantidad>
+          <precioUnitario>137.78</precioUnitario>
+          <descuento>5</descuento>
+          <importeLinea>261.78</importeLinea>
+        </linea>
+        <linea productoRef="P022">
+          <nombreProducto>Tostadora de 2 ranuras</nombreProducto>
+          <cantidad>2</cantidad>
+          <precioUnitario>33.72</precioUnitario>
+          <descuento>15</descuento>
+          <importeLinea>57.32</importeLinea>
+        </linea>
+        <linea productoRef="P031">
+          <nombreProducto>Cuchara de madera set x6</nombreProducto>
+          <cantidad>5</cantidad>
+          <precioUnitario>15.26</precioUnitario>
+          <descuento>15</descuento>
+          <importeLinea>64.85</importeLinea>
+        </linea>
+      </lineas>
+      <total>1968.43</total>
+    </pedido>
+    <pedido id="O0010" clienteRef="C035" estado="completado">
+      <fecha>2024-05-20</fecha>
+      <envio>Express</envio>
+      <pago>Bizum</pago>
+      <lineas>
+        <linea productoRef="P014">
+          <nombreProducto>Reloj deportivo inteligente</nombreProducto>
+          <cantidad>5</cantidad>
+          <precioUnitario>137.78</precioUnitario>
+          <descuento>10</descuento>
+          <importeLinea>620.01</importeLinea>
+        </linea>
+        <linea productoRef="P014">
+          <nombreProducto>Reloj deportivo inteligente</nombreProducto>
+          <cantidad>4</cantidad>
+          <precioUnitario>137.78</precioUnitario>
+          <descuento>0</descuento>
+          <importeLinea>551.12</importeLinea>
+        </linea>
+        <linea productoRef="P028">
+          <nombreProducto>Cesto organizador plegable</nombreProducto>
+          <cantidad>1</cantidad>
+          <precioUnitario>16.48</precioUnitario>
+          <descuento>5</descuento>
+          <importeLinea>15.66</importeLinea>
+        </linea>
+        <linea productoRef="P008">
+          <nombreProducto>Freidora de aire 5 L</nombreProducto>
+          <cantidad>3</cantidad>
+          <precioUnitario>89.08</precioUnitario>
+          <descuento>0</descuento>
+          <importeLinea>267.24</importeLinea>
+        </linea>
+        <linea productoRef="P027">
+          <nombreProducto>Robot aspirador</nombreProducto>
+          <cantidad>4</cantidad>
+          <precioUnitario>203.43</precioUnitario>
+          <descuento>0</descuento>
+          <importeLinea>813.72</importeLinea>
+        </linea>
+        <linea productoRef="P003">
+          <nombreProducto>Auriculares Bluetooth con cancelación de ruido</nombreProducto>
+          <cantidad>3</cantidad>
+          <precioUnitario>77.36</precioUnitario>
+          <descuento>0</descuento>
+          <importeLinea>232.08</importeLinea>
+        </linea>
+      </lineas>
+      <total>2499.83</total>
+    </pedido>
+    <pedido id="O0011" clienteRef="C018" estado="completado">
+      <fecha>2024-06-25</fecha>
+      <envio>Punto de recogida</envio>
+      <pago>Tarjeta</pago>
+      <lineas>
+        <linea productoRef="P004">
+          <nombreProducto>Monitor 27" Full HD IPS</nombreProducto>
+          <cantidad>4</cantidad>
+          <precioUnitario>195.65</precioUnitario>
+          <descuento>5</descuento>
+          <importeLinea>743.47</importeLinea>
+        </linea>
+        <linea productoRef="P003">
+          <nombreProducto>Auriculares Bluetooth con cancelación de ruido</nombreProducto>
+          <cantidad>1</cantidad>
+          <precioUnitario>77.36</precioUnitario>
+          <descuento>0</descuento>
+          <importeLinea>77.36</importeLinea>
+        </linea>
+        <linea productoRef="P008">
+          <nombreProducto>Freidora de aire 5 L</nombreProducto>
+          <cantidad>3</cantidad>
+          <precioUnitario>89.08</precioUnitario>
+          <descuento>0</descuento>
+          <importeLinea>267.24</importeLinea>
+        </linea>
+        <linea productoRef="P024">
+          <nombreProducto>Tupper hermético set x10</nombreProducto>
+          <cantidad>4</cantidad>
+          <precioUnitario>20.56</precioUnitario>
+          <descuento>15</descuento>
+          <importeLinea>69.90</importeLinea>
+        </linea>
+        <linea productoRef="P014">
+          <nombreProducto>Reloj deportivo inteligente</nombreProducto>
+          <cantidad>2</cantidad>
+          <precioUnitario>137.78</precioUnitario>
+          <descuento>0</descuento>
+          <importeLinea>275.56</importeLinea>
+        </linea>
+        <linea productoRef="P016">
+          <nombreProducto>Esterilla de yoga</nombreProducto>
+          <cantidad>5</cantidad>
+          <precioUnitario>21.41</precioUnitario>
+          <descuento>0</descuento>
+          <importeLinea>107.05</importeLinea>
+        </linea>
+      </lineas>
+      <total>1540.58</total>
+    </pedido>
+    <pedido id="O0012" clienteRef="C036" estado="completado">
+      <fecha>2024-09-01</fecha>
+      <envio>Express</envio>
+      <pago>Transferencia</pago>
+      <lineas>
+        <linea productoRef="P004">
+          <nombreProducto>Monitor 27" Full HD IPS</nombreProducto>
+          <cantidad>2</cantidad>
+          <precioUnitario>195.65</precioUnitario>
+          <descuento>0</descuento>
+          <importeLinea>391.30</importeLinea>
+        </linea>
+        <linea productoRef="P015">
+          <nombreProducto>Mancuernas ajustables</nombreProducto>
+          <cantidad>2</cantidad>
+          <precioUnitario>108.38</precioUnitario>
+          <descuento>15</descuento>
+          <importeLinea>184.25</importeLinea>
+        </linea>
+        <linea productoRef="P020">
+          <nombreProducto>Sartén antiadherente 28 cm</nombreProducto>
+          <cantidad>4</cantidad>
+          <precioUnitario>25.99</precioUnitario>
+          <descuento>0</descuento>
+          <importeLinea>103.96</importeLinea>
+        </linea>
+        <linea productoRef="P017">
+          <nombreProducto>Botella térmica deportiva</nombreProducto>
+          <cantidad>5</cantidad>
+          <precioUnitario>19.52</precioUnitario>
+          <descuento>10</descuento>
+          <importeLinea>87.84</importeLinea>
+        </linea>
+      </lineas>
+      <total>767.35</total>
+    </pedido>
+    <pedido id="O0013" clienteRef="C019" estado="pendiente">
+      <fecha>2024-11-03</fecha>
+      <envio>24h</envio>
+      <pago>Transferencia</pago>
+      <lineas>
+        <linea productoRef="P015">
+          <nombreProducto>Mancuernas ajustables</nombreProducto>
+          <cantidad>1</cantidad>
+          <precioUnitario>108.38</precioUnitario>
+          <descuento>10</descuento>
+          <importeLinea>97.54</importeLinea>
+        </linea>
+        <linea productoRef="P001">
+          <nombreProducto>Ratón inalámbrico ergonómico</nombreProducto>
+          <cantidad>3</cantidad>
+          <precioUnitario>26.42</precioUnitario>
+          <descuento>15</descuento>
+          <importeLinea>67.37</importeLinea>
+        </linea>
+        <linea productoRef="P020">
+          <nombreProducto>Sartén antiadherente 28 cm</nombreProducto>
+          <cantidad>2</cantidad>
+          <precioUnitario>25.99</precioUnitario>
+          <descuento>15</descuento>
+          <importeLinea>44.18</importeLinea>
+        </linea>
+      </lineas>
+      <total>209.10</total>
+    </pedido>
+    <pedido id="O0014" clienteRef="C032" estado="completado">
+      <fecha>2025-03-22</fecha>
+      <envio>Estándar</envio>
+      <pago>Transferencia</pago>
+      <lineas>
+        <linea productoRef="P014">
+          <nombreProducto>Reloj deportivo inteligente</nombreProducto>
+          <cantidad>4</cantidad>
+          <precioUnitario>137.78</precioUnitario>
+          <descuento>5</descuento>
+          <importeLinea>523.56</importeLinea>
+        </linea>
+        <linea productoRef="P002">
+          <nombreProducto>Teclado mecánico retroiluminado</nombreProducto>
+          <cantidad>1</cantidad>
+          <precioUnitario>53.67</precioUnitario>
+          <descuento>10</descuento>
+          <importeLinea>48.30</importeLinea>
+        </linea>
+        <linea productoRef="P022">
+          <nombreProducto>Tostadora de 2 ranuras</nombreProducto>
+          <cantidad>1</cantidad>
+          <precioUnitario>33.72</precioUnitario>
+          <descuento>0</descuento>
+          <importeLinea>33.72</importeLinea>
+        </linea>
+        <linea productoRef="P012">
+          <nombreProducto>Lámpara LED regulable</nombreProducto>
+          <cantidad>2</cantidad>
+          <precioUnitario>25.48</precioUnitario>
+          <descuento>10</descuento>
+          <importeLinea>45.86</importeLinea>
+        </linea>
+        <linea productoRef="P004">
+          <nombreProducto>Monitor 27" Full HD IPS</nombreProducto>
+          <cantidad>3</cantidad>
+          <precioUnitario>195.65</precioUnitario>
+          <descuento>0</descuento>
+          <importeLinea>586.95</importeLinea>
+        </linea>
+      </lineas>
+      <total>1238.40</total>
+    </pedido>
+    <pedido id="O0015" clienteRef="C008" estado="completado">
+      <fecha>2024-05-09</fecha>
+      <envio>Express</envio>
+      <pago>PayPal</pago>
+      <lineas>
+        <linea productoRef="P025">
+          <nombreProducto>Hub USB-C 7 en 1</nombreProducto>
+          <cantidad>1</cantidad>
+          <precioUnitario>43.73</precioUnitario>
+          <descuento>10</descuento>
+          <importeLinea>39.36</importeLinea>
+        </linea>
+        <linea productoRef="P016">
+          <nombreProducto>Esterilla de yoga</nombreProducto>
+          <cantidad>1</cantidad>
+          <precioUnitario>21.41</precioUnitario>
+          <descuento>0</descuento>
+          <importeLinea>21.41</importeLinea>
+        </linea>
+        <linea productoRef="P030">
+          <nombreProducto>Bandas elásticas de resistencia</nombreProducto>
+          <cantidad>2</cantidad>
+          <precioUnitario>17.00</precioUnitario>
+          <descuento>0</descuento>
+          <importeLinea>34.00</importeLinea>
+        </linea>
+        <linea productoRef="P031">
+          <nombreProducto>Cuchara de madera set x6</nombreProducto>
+          <cantidad>1</cantidad>
+          <precioUnitario>15.26</precioUnitario>
+          <descuento>0</descuento>
+          <importeLinea>15.26</importeLinea>
+        </linea>
+        <linea productoRef="P010">
+          <nombreProducto>Robot de cocina multifunción</nombreProducto>
+          <cantidad>2</cantidad>
+          <precioUnitario>223.62</precioUnitario>
+          <descuento>0</descuento>
+          <importeLinea>447.24</importeLinea>
+        </linea>
+        <linea productoRef="P019">
+          <nombreProducto>Juego de cuchillos de chef</nombreProducto>
+          <cantidad>5</cantidad>
+          <precioUnitario>79.82</precioUnitario>
+          <descuento>0</descuento>
+          <importeLinea>399.10</importeLinea>
+        </linea>
+      </lineas>
+      <total>956.37</total>
+    </pedido>
+    <pedido id="O0016" clienteRef="C001" estado="completado">
+      <fecha>2024-03-23</fecha>
+      <envio>Express</envio>
+      <pago>Transferencia</pago>
+      <lineas>
+        <linea productoRef="P015">
+          <nombreProducto>Mancuernas ajustables</nombreProducto>
+          <cantidad>4</cantidad>
+          <precioUnitario>108.38</precioUnitario>
+          <descuento>0</descuento>
+          <importeLinea>433.52</importeLinea>
+        </linea>
+        <linea productoRef="P019">
+          <nombreProducto>Juego de cuchillos de chef</nombreProducto>
+          <cantidad>2</cantidad>
+          <precioUnitario>79.82</precioUnitario>
+          <descuento>0</descuento>
+          <importeLinea>159.64</importeLinea>
+        </linea>
+      </lineas>
+      <total>593.16</total>
+    </pedido>
+    <pedido id="O0017" clienteRef="C013" estado="completado">
+      <fecha>2025-02-09</fecha>
+      <envio>24h</envio>
+      <pago>PayPal</pago>
+      <lineas>
+        <linea productoRef="P010">
+          <nombreProducto>Robot de cocina multifunción</nombreProducto>
+          <cantidad>5</cantidad>
+          <precioUnitario>223.62</precioUnitario>
+          <descuento>0</descuento>
+          <importeLinea>1118.10</importeLinea>
+        </linea>
+        <linea productoRef="P005">
+          <nombreProducto>Disco SSD 1 TB NVMe</nombreProducto>
+          <cantidad>4</cantidad>
+          <precioUnitario>78.23</precioUnitario>
+          <descuento>0</descuento>
+          <importeLinea>312.92</importeLinea>
+        </linea>
+        <linea productoRef="P004">
+          <nombreProducto>Monitor 27" Full HD IPS</nombreProducto>
+          <cantidad>4</cantidad>
+          <precioUnitario>195.65</precioUnitario>
+          <descuento>15</descuento>
+          <importeLinea>665.21</importeLinea>
+        </linea>
+        <linea productoRef="P011">
+          <nombreProducto>Juego de sábanas algodón</nombreProducto>
+          <cantidad>3</cantidad>
+          <precioUnitario>25.87</precioUnitario>
+          <descuento>15</descuento>
+          <importeLinea>65.97</importeLinea>
+        </linea>
+      </lineas>
+      <total>2162.20</total>
+    </pedido>
+    <pedido id="O0018" clienteRef="C018" estado="completado">
+      <fecha>2024-07-27</fecha>
+      <envio>Express</envio>
+      <pago>Bizum</pago>
+      <lineas>
+        <linea productoRef="P003">
+          <nombreProducto>Auriculares Bluetooth con cancelación de ruido</nombreProducto>
+          <cantidad>5</cantidad>
+          <precioUnitario>77.36</precioUnitario>
+          <descuento>0</descuento>
+          <importeLinea>386.80</importeLinea>
+        </linea>
+        <linea productoRef="P028">
+          <nombreProducto>Cesto organizador plegable</nombreProducto>
+          <cantidad>1</cantidad>
+          <precioUnitario>16.48</precioUnitario>
+          <descuento>0</descuento>
+          <importeLinea>16.48</importeLinea>
+        </linea>
+      </lineas>
+      <total>403.28</total>
+    </pedido>
+    <pedido id="O0019" clienteRef="C002" estado="cancelado">
+      <fecha>2024-04-29</fecha>
+      <envio>Punto de recogida</envio>
+      <pago>Tarjeta</pago>
+      <lineas>
+        <linea productoRef="P016">
+          <nombreProducto>Esterilla de yoga</nombreProducto>
+          <cantidad>4</cantidad>
+          <precioUnitario>21.41</precioUnitario>
+          <descuento>0</descuento>
+          <importeLinea>85.64</importeLinea>
+        </linea>
+        <linea productoRef="P029">
+          <nombreProducto>Casco para bicicleta urbano</nombreProducto>
+          <cantidad>4</cantidad>
+          <precioUnitario>35.85</precioUnitario>
+          <descuento>0</descuento>
+          <importeLinea>143.40</importeLinea>
+        </linea>
+        <linea productoRef="P018">
+          <nombreProducto>Bicicleta estática plegable</nombreProducto>
+          <cantidad>4</cantidad>
+          <precioUnitario>321.22</precioUnitario>
+          <descuento>0</descuento>
+          <importeLinea>1284.88</importeLinea>
+        </linea>
+      </lineas>
+      <total>0.00</total>
+    </pedido>
+    <pedido id="O0020" clienteRef="C007" estado="completado">
+      <fecha>2024-06-15</fecha>
+      <envio>Punto de recogida</envio>
+      <pago>Bizum</pago>
+      <lineas>
+        <linea productoRef="P006">
+          <nombreProducto>Webcam Full HD con micrófono</nombreProducto>
+          <cantidad>5</cantidad>
+          <precioUnitario>38.40</precioUnitario>
+          <descuento>0</descuento>
+          <importeLinea>192.00</importeLinea>
+        </linea>
+        <linea productoRef="P013">
+          <nombreProducto>Zapatillas de running</nombreProducto>
+          <cantidad>5</cantidad>
+          <precioUnitario>84.68</precioUnitario>
+          <descuento>5</descuento>
+          <importeLinea>402.23</importeLinea>
+        </linea>
+        <linea productoRef="P003">
+          <nombreProducto>Auriculares Bluetooth con cancelación de ruido</nombreProducto>
+          <cantidad>4</cantidad>
+          <precioUnitario>77.36</precioUnitario>
+          <descuento>0</descuento>
+          <importeLinea>309.44</importeLinea>
+        </linea>
+        <linea productoRef="P030">
+          <nombreProducto>Bandas elásticas de resistencia</nombreProducto>
+          <cantidad>2</cantidad>
+          <precioUnitario>17.00</precioUnitario>
+          <descuento>10</descuento>
+          <importeLinea>30.60</importeLinea>
+        </linea>
+        <linea productoRef="P006">
+          <nombreProducto>Webcam Full HD con micrófono</nombreProducto>
+          <cantidad>3</cantidad>
+          <precioUnitario>38.40</precioUnitario>
+          <descuento>10</descuento>
+          <importeLinea>103.68</importeLinea>
+        </linea>
+      </lineas>
+      <total>1037.95</total>
+    </pedido>
+    <pedido id="O0021" clienteRef="C032" estado="completado">
+      <fecha>2025-01-24</fecha>
+      <envio>Estándar</envio>
+      <pago>PayPal</pago>
+      <lineas>
+        <linea productoRef="P016">
+          <nombreProducto>Esterilla de yoga</nombreProducto>
+          <cantidad>2</cantidad>
+          <precioUnitario>21.41</precioUnitario>
+          <descuento>0</descuento>
+          <importeLinea>42.82</importeLinea>
+        </linea>
+        <linea productoRef="P019">
+          <nombreProducto>Juego de cuchillos de chef</nombreProducto>
+          <cantidad>5</cantidad>
+          <precioUnitario>79.82</precioUnitario>
+          <descuento>0</descuento>
+          <importeLinea>399.10</importeLinea>
+        </linea>
+        <linea productoRef="P029">
+          <nombreProducto>Casco para bicicleta urbano</nombreProducto>
+          <cantidad>5</cantidad>
+          <precioUnitario>35.85</precioUnitario>
+          <descuento>5</descuento>
+          <importeLinea>170.29</importeLinea>
+        </linea>
+        <linea productoRef="P032">
+          <nombreProducto>Báscula digital de cocina</nombreProducto>
+          <cantidad>1</cantidad>
+          <precioUnitario>26.03</precioUnitario>
+          <descuento>0</descuento>
+          <importeLinea>26.03</importeLinea>
+        </linea>
+      </lineas>
+      <total>638.24</total>
+    </pedido>
+    <pedido id="O0022" clienteRef="C008" estado="completado">
+      <fecha>2025-03-08</fecha>
+      <envio>Estándar</envio>
+      <pago>PayPal</pago>
+      <lineas>
+        <linea productoRef="P003">
+          <nombreProducto>Auriculares Bluetooth con cancelación de ruido</nombreProducto>
+          <cantidad>5</cantidad>
+          <precioUnitario>77.36</precioUnitario>
+          <descuento>15</descuento>
+          <importeLinea>328.78</importeLinea>
+        </linea>
+        <linea productoRef="P016">
+          <nombreProducto>Esterilla de yoga</nombreProducto>
+          <cantidad>2</cantidad>
+          <precioUnitario>21.41</precioUnitario>
+          <descuento>0</descuento>
+          <importeLinea>42.82</importeLinea>
+        </linea>
+        <linea productoRef="P027">
+          <nombreProducto>Robot aspirador</nombreProducto>
+          <cantidad>3</cantidad>
+          <precioUnitario>203.43</precioUnitario>
+          <descuento>5</descuento>
+          <importeLinea>579.78</importeLinea>
+        </linea>
+        <linea productoRef="P031">
+          <nombreProducto>Cuchara de madera set x6</nombreProducto>
+          <cantidad>3</cantidad>
+          <precioUnitario>15.26</precioUnitario>
+          <descuento>10</descuento>
+          <importeLinea>41.20</importeLinea>
+        </linea>
+        <linea productoRef="P016">
+          <nombreProducto>Esterilla de yoga</nombreProducto>
+          <cantidad>3</cantidad>
+          <precioUnitario>21.41</precioUnitario>
+          <descuento>0</descuento>
+          <importeLinea>64.23</importeLinea>
+        </linea>
+      </lineas>
+      <total>1056.81</total>
+    </pedido>
+    <pedido id="O0023" clienteRef="C020" estado="completado">
+      <fecha>2024-05-26</fecha>
+      <envio>Express</envio>
+      <pago>PayPal</pago>
+      <lineas>
+        <linea productoRef="P031">
+          <nombreProducto>Cuchara de madera set x6</nombreProducto>
+          <cantidad>2</cantidad>
+          <precioUnitario>15.26</precioUnitario>
+          <descuento>10</descuento>
+          <importeLinea>27.47</importeLinea>
+        </linea>
+        <linea productoRef="P023">
+          <nombreProducto>Batidora de vaso</nombreProducto>
+          <cantidad>4</cantidad>
+          <precioUnitario>52.23</precioUnitario>
+          <descuento>0</descuento>
+          <importeLinea>208.92</importeLinea>
+        </linea>
+        <linea productoRef="P022">
+          <nombreProducto>Tostadora de 2 ranuras</nombreProducto>
+          <cantidad>4</cantidad>
+          <precioUnitario>33.72</precioUnitario>
+          <descuento>0</descuento>
+          <importeLinea>134.88</importeLinea>
+        </linea>
+        <linea productoRef="P025">
+          <nombreProducto>Hub USB-C 7 en 1</nombreProducto>
+          <cantidad>3</cantidad>
+          <precioUnitario>43.73</precioUnitario>
+          <descuento>15</descuento>
+          <importeLinea>111.51</importeLinea>
+        </linea>
+        <linea productoRef="P030">
+          <nombreProducto>Bandas elásticas de resistencia</nombreProducto>
+          <cantidad>4</cantidad>
+          <precioUnitario>17.00</precioUnitario>
+          <descuento>15</descuento>
+          <importeLinea>57.80</importeLinea>
+        </linea>
+      </lineas>
+      <total>540.58</total>
+    </pedido>
+    <pedido id="O0024" clienteRef="C025" estado="completado">
+      <fecha>2025-02-21</fecha>
+      <envio>24h</envio>
+      <pago>Bizum</pago>
+      <lineas>
+        <linea productoRef="P009">
+          <nombreProducto>Cafetera automática</nombreProducto>
+          <cantidad>4</cantidad>
+          <precioUnitario>291.61</precioUnitario>
+          <descuento>0</descuento>
+          <importeLinea>1166.44</importeLinea>
+        </linea>
+        <linea productoRef="P022">
+          <nombreProducto>Tostadora de 2 ranuras</nombreProducto>
+          <cantidad>5</cantidad>
+          <precioUnitario>33.72</precioUnitario>
+          <descuento>5</descuento>
+          <importeLinea>160.17</importeLinea>
+        </linea>
+      </lineas>
+      <total>1326.61</total>
+    </pedido>
+    <pedido id="O0025" clienteRef="C010" estado="completado">
+      <fecha>2024-01-10</fecha>
+      <envio>24h</envio>
+      <pago>Tarjeta</pago>
+      <lineas>
+        <linea productoRef="P017">
+          <nombreProducto>Botella térmica deportiva</nombreProducto>
+          <cantidad>4</cantidad>
+          <precioUnitario>19.52</precioUnitario>
+          <descuento>10</descuento>
+          <importeLinea>70.27</importeLinea>
+        </linea>
+        <linea productoRef="P022">
+          <nombreProducto>Tostadora de 2 ranuras</nombreProducto>
+          <cantidad>1</cantidad>
+          <precioUnitario>33.72</precioUnitario>
+          <descuento>10</descuento>
+          <importeLinea>30.35</importeLinea>
+        </linea>
+        <linea productoRef="P026">
+          <nombreProducto>Base refrigeradora para portátil</nombreProducto>
+          <cantidad>1</cantidad>
+          <precioUnitario>41.57</precioUnitario>
+          <descuento>0</descuento>
+          <importeLinea>41.57</importeLinea>
+        </linea>
+        <linea productoRef="P006">
+          <nombreProducto>Webcam Full HD con micrófono</nombreProducto>
+          <cantidad>3</cantidad>
+          <precioUnitario>38.40</precioUnitario>
+          <descuento>0</descuento>
+          <importeLinea>115.20</importeLinea>
+        </linea>
+        <linea productoRef="P025">
+          <nombreProducto>Hub USB-C 7 en 1</nombreProducto>
+          <cantidad>1</cantidad>
+          <precioUnitario>43.73</precioUnitario>
+          <descuento>5</descuento>
+          <importeLinea>41.54</importeLinea>
+        </linea>
+      </lineas>
+      <total>298.93</total>
+    </pedido>
+    <pedido id="O0026" clienteRef="C007" estado="completado">
+      <fecha>2024-02-22</fecha>
+      <envio>Punto de recogida</envio>
+      <pago>Tarjeta</pago>
+      <lineas>
+        <linea productoRef="P006">
+          <nombreProducto>Webcam Full HD con micrófono</nombreProducto>
+          <cantidad>4</cantidad>
+          <precioUnitario>38.40</precioUnitario>
+          <descuento>0</descuento>
+          <importeLinea>153.60</importeLinea>
+        </linea>
+        <linea productoRef="P004">
+          <nombreProducto>Monitor 27" Full HD IPS</nombreProducto>
+          <cantidad>2</cantidad>
+          <precioUnitario>195.65</precioUnitario>
+          <descuento>10</descuento>
+          <importeLinea>352.17</importeLinea>
+        </linea>
+      </lineas>
+      <total>505.77</total>
+    </pedido>
+    <pedido id="O0027" clienteRef="C012" estado="completado">
+      <fecha>2024-07-31</fecha>
+      <envio>Estándar</envio>
+      <pago>Bizum</pago>
+      <lineas>
+        <linea productoRef="P005">
+          <nombreProducto>Disco SSD 1 TB NVMe</nombreProducto>
+          <cantidad>1</cantidad>
+          <precioUnitario>78.23</precioUnitario>
+          <descuento>5</descuento>
+          <importeLinea>74.32</importeLinea>
+        </linea>
+        <linea productoRef="P032">
+          <nombreProducto>Báscula digital de cocina</nombreProducto>
+          <cantidad>3</cantidad>
+          <precioUnitario>26.03</precioUnitario>
+          <descuento>15</descuento>
+          <importeLinea>66.38</importeLinea>
+        </linea>
+        <linea productoRef="P030">
+          <nombreProducto>Bandas elásticas de resistencia</nombreProducto>
+          <cantidad>5</cantidad>
+          <precioUnitario>17.00</precioUnitario>
+          <descuento>0</descuento>
+          <importeLinea>85.00</importeLinea>
+        </linea>
+        <linea productoRef="P019">
+          <nombreProducto>Juego de cuchillos de chef</nombreProducto>
+          <cantidad>1</cantidad>
+          <precioUnitario>79.82</precioUnitario>
+          <descuento>5</descuento>
+          <importeLinea>75.83</importeLinea>
+        </linea>
+        <linea productoRef="P005">
+          <nombreProducto>Disco SSD 1 TB NVMe</nombreProducto>
+          <cantidad>3</cantidad>
+          <precioUnitario>78.23</precioUnitario>
+          <descuento>10</descuento>
+          <importeLinea>211.22</importeLinea>
+        </linea>
+        <linea productoRef="P008">
+          <nombreProducto>Freidora de aire 5 L</nombreProducto>
+          <cantidad>3</cantidad>
+          <precioUnitario>89.08</precioUnitario>
+          <descuento>15</descuento>
+          <importeLinea>227.15</importeLinea>
+        </linea>
+      </lineas>
+      <total>739.90</total>
+    </pedido>
+    <pedido id="O0028" clienteRef="C017" estado="completado">
+      <fecha>2024-08-07</fecha>
+      <envio>Punto de recogida</envio>
+      <pago>PayPal</pago>
+      <lineas>
+        <linea productoRef="P005">
+          <nombreProducto>Disco SSD 1 TB NVMe</nombreProducto>
+          <cantidad>3</cantidad>
+          <precioUnitario>78.23</precioUnitario>
+          <descuento>0</descuento>
+          <importeLinea>234.69</importeLinea>
+        </linea>
+        <linea productoRef="P013">
+          <nombreProducto>Zapatillas de running</nombreProducto>
+          <cantidad>5</cantidad>
+          <precioUnitario>84.68</precioUnitario>
+          <descuento>15</descuento>
+          <importeLinea>359.89</importeLinea>
+        </linea>
+        <linea productoRef="P016">
+          <nombreProducto>Esterilla de yoga</nombreProducto>
+          <cantidad>1</cantidad>
+          <precioUnitario>21.41</precioUnitario>
+          <descuento>10</descuento>
+          <importeLinea>19.27</importeLinea>
+        </linea>
+        <linea productoRef="P025">
+          <nombreProducto>Hub USB-C 7 en 1</nombreProducto>
+          <cantidad>4</cantidad>
+          <precioUnitario>43.73</precioUnitario>
+          <descuento>0</descuento>
+          <importeLinea>174.92</importeLinea>
+        </linea>
+        <linea productoRef="P023">
+          <nombreProducto>Batidora de vaso</nombreProducto>
+          <cantidad>2</cantidad>
+          <precioUnitario>52.23</precioUnitario>
+          <descuento>10</descuento>
+          <importeLinea>94.01</importeLinea>
+        </linea>
+      </lineas>
+      <total>882.78</total>
+    </pedido>
+    <pedido id="O0029" clienteRef="C023" estado="completado">
+      <fecha>2025-02-16</fecha>
+      <envio>24h</envio>
+      <pago>Transferencia</pago>
+      <lineas>
+        <linea productoRef="P007">
+          <nombreProducto>Aspiradora sin cable</nombreProducto>
+          <cantidad>2</cantidad>
+          <precioUnitario>114.39</precioUnitario>
+          <descuento>0</descuento>
+          <importeLinea>228.78</importeLinea>
+        </linea>
+        <linea productoRef="P006">
+          <nombreProducto>Webcam Full HD con micrófono</nombreProducto>
+          <cantidad>3</cantidad>
+          <precioUnitario>38.40</precioUnitario>
+          <descuento>0</descuento>
+          <importeLinea>115.20</importeLinea>
+        </linea>
+        <linea productoRef="P020">
+          <nombreProducto>Sartén antiadherente 28 cm</nombreProducto>
+          <cantidad>4</cantidad>
+          <precioUnitario>25.99</precioUnitario>
+          <descuento>0</descuento>
+          <importeLinea>103.96</importeLinea>
+        </linea>
+      </lineas>
+      <total>447.94</total>
+    </pedido>
+    <pedido id="O0030" clienteRef="C009" estado="completado">
+      <fecha>2024-04-14</fecha>
+      <envio>Punto de recogida</envio>
+      <pago>Transferencia</pago>
+      <lineas>
+        <linea productoRef="P017">
+          <nombreProducto>Botella térmica deportiva</nombreProducto>
+          <cantidad>4</cantidad>
+          <precioUnitario>19.52</precioUnitario>
+          <descuento>0</descuento>
+          <importeLinea>78.08</importeLinea>
+        </linea>
+        <linea productoRef="P002">
+          <nombreProducto>Teclado mecánico retroiluminado</nombreProducto>
+          <cantidad>2</cantidad>
+          <precioUnitario>53.67</precioUnitario>
+          <descuento>0</descuento>
+          <importeLinea>107.34</importeLinea>
+        </linea>
+        <linea productoRef="P019">
+          <nombreProducto>Juego de cuchillos de chef</nombreProducto>
+          <cantidad>4</cantidad>
+          <precioUnitario>79.82</precioUnitario>
+          <descuento>10</descuento>
+          <importeLinea>287.35</importeLinea>
+        </linea>
+      </lineas>
+      <total>472.77</total>
+    </pedido>
+    <pedido id="O0031" clienteRef="C006" estado="completado">
+      <fecha>2024-07-08</fecha>
+      <envio>Estándar</envio>
+      <pago>Transferencia</pago>
+      <lineas>
+        <linea productoRef="P013">
+          <nombreProducto>Zapatillas de running</nombreProducto>
+          <cantidad>3</cantidad>
+          <precioUnitario>84.68</precioUnitario>
+          <descuento>0</descuento>
+          <importeLinea>254.04</importeLinea>
+        </linea>
+        <linea productoRef="P015">
+          <nombreProducto>Mancuernas ajustables</nombreProducto>
+          <cantidad>2</cantidad>
+          <precioUnitario>108.38</precioUnitario>
+          <descuento>5</descuento>
+          <importeLinea>205.92</importeLinea>
+        </linea>
+        <linea productoRef="P012">
+          <nombreProducto>Lámpara LED regulable</nombreProducto>
+          <cantidad>1</cantidad>
+          <precioUnitario>25.48</precioUnitario>
+          <descuento>10</descuento>
+          <importeLinea>22.93</importeLinea>
+        </linea>
+        <linea productoRef="P022">
+          <nombreProducto>Tostadora de 2 ranuras</nombreProducto>
+          <cantidad>5</cantidad>
+          <precioUnitario>33.72</precioUnitario>
+          <descuento>0</descuento>
+          <importeLinea>168.60</importeLinea>
+        </linea>
+        <linea productoRef="P024">
+          <nombreProducto>Tupper hermético set x10</nombreProducto>
+          <cantidad>5</cantidad>
+          <precioUnitario>20.56</precioUnitario>
+          <descuento>0</descuento>
+          <importeLinea>102.80</importeLinea>
+        </linea>
+        <linea productoRef="P029">
+          <nombreProducto>Casco para bicicleta urbano</nombreProducto>
+          <cantidad>1</cantidad>
+          <precioUnitario>35.85</precioUnitario>
+          <descuento>15</descuento>
+          <importeLinea>30.47</importeLinea>
+        </linea>
+      </lineas>
+      <total>784.77</total>
+    </pedido>
+    <pedido id="O0032" clienteRef="C030" estado="enviado">
+      <fecha>2025-02-27</fecha>
+      <envio>Punto de recogida</envio>
+      <pago>Bizum</pago>
+      <lineas>
+        <linea productoRef="P009">
+          <nombreProducto>Cafetera automática</nombreProducto>
+          <cantidad>3</cantidad>
+          <precioUnitario>291.61</precioUnitario>
+          <descuento>5</descuento>
+          <importeLinea>831.09</importeLinea>
+        </linea>
+        <linea productoRef="P003">
+          <nombreProducto>Auriculares Bluetooth con cancelación de ruido</nombreProducto>
+          <cantidad>1</cantidad>
+          <precioUnitario>77.36</precioUnitario>
+          <descuento>0</descuento>
+          <importeLinea>77.36</importeLinea>
+        </linea>
+      </lineas>
+      <total>908.45</total>
+    </pedido>
+    <pedido id="O0033" clienteRef="C035" estado="completado">
+      <fecha>2024-05-02</fecha>
+      <envio>Express</envio>
+      <pago>Transferencia</pago>
+      <lineas>
+        <linea productoRef="P027">
+          <nombreProducto>Robot aspirador</nombreProducto>
+          <cantidad>5</cantidad>
+          <precioUnitario>203.43</precioUnitario>
+          <descuento>5</descuento>
+          <importeLinea>966.29</importeLinea>
+        </linea>
+        <linea productoRef="P019">
+          <nombreProducto>Juego de cuchillos de chef</nombreProducto>
+          <cantidad>3</cantidad>
+          <precioUnitario>79.82</precioUnitario>
+          <descuento>0</descuento>
+          <importeLinea>239.46</importeLinea>
+        </linea>
+        <linea productoRef="P024">
+          <nombreProducto>Tupper hermético set x10</nombreProducto>
+          <cantidad>3</cantidad>
+          <precioUnitario>20.56</precioUnitario>
+          <descuento>0</descuento>
+          <importeLinea>61.68</importeLinea>
+        </linea>
+        <linea productoRef="P030">
+          <nombreProducto>Bandas elásticas de resistencia</nombreProducto>
+          <cantidad>4</cantidad>
+          <precioUnitario>17.00</precioUnitario>
+          <descuento>5</descuento>
+          <importeLinea>64.60</importeLinea>
+        </linea>
+        <linea productoRef="P005">
+          <nombreProducto>Disco SSD 1 TB NVMe</nombreProducto>
+          <cantidad>2</cantidad>
+          <precioUnitario>78.23</precioUnitario>
+          <descuento>0</descuento>
+          <importeLinea>156.46</importeLinea>
+        </linea>
+        <linea productoRef="P014">
+          <nombreProducto>Reloj deportivo inteligente</nombreProducto>
+          <cantidad>1</cantidad>
+          <precioUnitario>137.78</precioUnitario>
+          <descuento>15</descuento>
+          <importeLinea>117.11</importeLinea>
+        </linea>
+      </lineas>
+      <total>1605.61</total>
+    </pedido>
+    <pedido id="O0034" clienteRef="C035" estado="enviado">
+      <fecha>2024-07-09</fecha>
+      <envio>Punto de recogida</envio>
+      <pago>Tarjeta</pago>
+      <lineas>
+        <linea productoRef="P018">
+          <nombreProducto>Bicicleta estática plegable</nombreProducto>
+          <cantidad>5</cantidad>
+          <precioUnitario>321.22</precioUnitario>
+          <descuento>0</descuento>
+          <importeLinea>1606.10</importeLinea>
+        </linea>
+        <linea productoRef="P013">
+          <nombreProducto>Zapatillas de running</nombreProducto>
+          <cantidad>1</cantidad>
+          <precioUnitario>84.68</precioUnitario>
+          <descuento>0</descuento>
+          <importeLinea>84.68</importeLinea>
+        </linea>
+        <linea productoRef="P008">
+          <nombreProducto>Freidora de aire 5 L</nombreProducto>
+          <cantidad>2</cantidad>
+          <precioUnitario>89.08</precioUnitario>
+          <descuento>0</descuento>
+          <importeLinea>178.16</importeLinea>
+        </linea>
+        <linea productoRef="P030">
+          <nombreProducto>Bandas elásticas de resistencia</nombreProducto>
+          <cantidad>5</cantidad>
+          <precioUnitario>17.00</precioUnitario>
+          <descuento>0</descuento>
+          <importeLinea>85.00</importeLinea>
+        </linea>
+        <linea productoRef="P006">
+          <nombreProducto>Webcam Full HD con micrófono</nombreProducto>
+          <cantidad>1</cantidad>
+          <precioUnitario>38.40</precioUnitario>
+          <descuento>10</descuento>
+          <importeLinea>34.56</importeLinea>
+        </linea>
+      </lineas>
+      <total>1988.50</total>
+    </pedido>
+    <pedido id="O0035" clienteRef="C014" estado="completado">
+      <fecha>2024-04-18</fecha>
+      <envio>24h</envio>
+      <pago>Transferencia</pago>
+      <lineas>
+        <linea productoRef="P001">
+          <nombreProducto>Ratón inalámbrico ergonómico</nombreProducto>
+          <cantidad>2</cantidad>
+          <precioUnitario>26.42</precioUnitario>
+          <descuento>0</descuento>
+          <importeLinea>52.84</importeLinea>
+        </linea>
+        <linea productoRef="P018">
+          <nombreProducto>Bicicleta estática plegable</nombreProducto>
+          <cantidad>1</cantidad>
+          <precioUnitario>321.22</precioUnitario>
+          <descuento>0</descuento>
+          <importeLinea>321.22</importeLinea>
+        </linea>
+        <linea productoRef="P010">
+          <nombreProducto>Robot de cocina multifunción</nombreProducto>
+          <cantidad>1</cantidad>
+          <precioUnitario>223.62</precioUnitario>
+          <descuento>0</descuento>
+          <importeLinea>223.62</importeLinea>
+        </linea>
+      </lineas>
+      <total>597.68</total>
+    </pedido>
+    <pedido id="O0036" clienteRef="C016" estado="completado">
+      <fecha>2025-02-10</fecha>
+      <envio>Estándar</envio>
+      <pago>PayPal</pago>
+      <lineas>
+        <linea productoRef="P004">
+          <nombreProducto>Monitor 27" Full HD IPS</nombreProducto>
+          <cantidad>3</cantidad>
+          <precioUnitario>195.65</precioUnitario>
+          <descuento>10</descuento>
+          <importeLinea>528.26</importeLinea>
+        </linea>
+        <linea productoRef="P009">
+          <nombreProducto>Cafetera automática</nombreProducto>
+          <cantidad>5</cantidad>
+          <precioUnitario>291.61</precioUnitario>
+          <descuento>0</descuento>
+          <importeLinea>1458.05</importeLinea>
+        </linea>
+        <linea productoRef="P027">
+          <nombreProducto>Robot aspirador</nombreProducto>
+          <cantidad>4</cantidad>
+          <precioUnitario>203.43</precioUnitario>
+          <descuento>10</descuento>
+          <importeLinea>732.35</importeLinea>
+        </linea>
+        <linea productoRef="P008">
+          <nombreProducto>Freidora de aire 5 L</nombreProducto>
+          <cantidad>2</cantidad>
+          <precioUnitario>89.08</precioUnitario>
+          <descuento>10</descuento>
+          <importeLinea>160.34</importeLinea>
+        </linea>
+      </lineas>
+      <total>2879.00</total>
+    </pedido>
+    <pedido id="O0037" clienteRef="C034" estado="completado">
+      <fecha>2024-01-25</fecha>
+      <envio>Estándar</envio>
+      <pago>Tarjeta</pago>
+      <lineas>
+        <linea productoRef="P002">
+          <nombreProducto>Teclado mecánico retroiluminado</nombreProducto>
+          <cantidad>1</cantidad>
+          <precioUnitario>53.67</precioUnitario>
+          <descuento>0</descuento>
+          <importeLinea>53.67</importeLinea>
+        </linea>
+        <linea productoRef="P003">
+          <nombreProducto>Auriculares Bluetooth con cancelación de ruido</nombreProducto>
+          <cantidad>3</cantidad>
+          <precioUnitario>77.36</precioUnitario>
+          <descuento>10</descuento>
+          <importeLinea>208.87</importeLinea>
+        </linea>
+        <linea productoRef="P007">
+          <nombreProducto>Aspiradora sin cable</nombreProducto>
+          <cantidad>5</cantidad>
+          <precioUnitario>114.39</precioUnitario>
+          <descuento>10</descuento>
+          <importeLinea>514.76</importeLinea>
+        </linea>
+        <linea productoRef="P032">
+          <nombreProducto>Báscula digital de cocina</nombreProducto>
+          <cantidad>3</cantidad>
+          <precioUnitario>26.03</precioUnitario>
+          <descuento>5</descuento>
+          <importeLinea>74.19</importeLinea>
+        </linea>
+        <linea productoRef="P029">
+          <nombreProducto>Casco para bicicleta urbano</nombreProducto>
+          <cantidad>5</cantidad>
+          <precioUnitario>35.85</precioUnitario>
+          <descuento>10</descuento>
+          <importeLinea>161.33</importeLinea>
+        </linea>
+      </lineas>
+      <total>1012.81</total>
+    </pedido>
+    <pedido id="O0038" clienteRef="C030" estado="completado">
+      <fecha>2024-06-01</fecha>
+      <envio>Express</envio>
+      <pago>Tarjeta</pago>
+      <lineas>
+        <linea productoRef="P004">
+          <nombreProducto>Monitor 27" Full HD IPS</nombreProducto>
+          <cantidad>4</cantidad>
+          <precioUnitario>195.65</precioUnitario>
+          <descuento>0</descuento>
+          <importeLinea>782.60</importeLinea>
+        </linea>
+        <linea productoRef="P028">
+          <nombreProducto>Cesto organizador plegable</nombreProducto>
+          <cantidad>4</cantidad>
+          <precioUnitario>16.48</precioUnitario>
+          <descuento>5</descuento>
+          <importeLinea>62.62</importeLinea>
+        </linea>
+      </lineas>
+      <total>845.22</total>
+    </pedido>
+    <pedido id="O0039" clienteRef="C007" estado="completado">
+      <fecha>2024-08-02</fecha>
+      <envio>Punto de recogida</envio>
+      <pago>Transferencia</pago>
+      <lineas>
+        <linea productoRef="P010">
+          <nombreProducto>Robot de cocina multifunción</nombreProducto>
+          <cantidad>3</cantidad>
+          <precioUnitario>223.62</precioUnitario>
+          <descuento>0</descuento>
+          <importeLinea>670.86</importeLinea>
+        </linea>
+        <linea productoRef="P002">
+          <nombreProducto>Teclado mecánico retroiluminado</nombreProducto>
+          <cantidad>5</cantidad>
+          <precioUnitario>53.67</precioUnitario>
+          <descuento>0</descuento>
+          <importeLinea>268.35</importeLinea>
+        </linea>
+        <linea productoRef="P005">
+          <nombreProducto>Disco SSD 1 TB NVMe</nombreProducto>
+          <cantidad>5</cantidad>
+          <precioUnitario>78.23</precioUnitario>
+          <descuento>10</descuento>
+          <importeLinea>352.04</importeLinea>
+        </linea>
+        <linea productoRef="P006">
+          <nombreProducto>Webcam Full HD con micrófono</nombreProducto>
+          <cantidad>5</cantidad>
+          <precioUnitario>38.40</precioUnitario>
+          <descuento>0</descuento>
+          <importeLinea>192.00</importeLinea>
+        </linea>
+      </lineas>
+      <total>1483.25</total>
+    </pedido>
+    <pedido id="O0040" clienteRef="C008" estado="completado">
+      <fecha>2024-12-11</fecha>
+      <envio>Express</envio>
+      <pago>Tarjeta</pago>
+      <lineas>
+        <linea productoRef="P014">
+          <nombreProducto>Reloj deportivo inteligente</nombreProducto>
+          <cantidad>3</cantidad>
+          <precioUnitario>137.78</precioUnitario>
+          <descuento>10</descuento>
+          <importeLinea>372.01</importeLinea>
+        </linea>
+        <linea productoRef="P002">
+          <nombreProducto>Teclado mecánico retroiluminado</nombreProducto>
+          <cantidad>3</cantidad>
+          <precioUnitario>53.67</precioUnitario>
+          <descuento>0</descuento>
+          <importeLinea>161.01</importeLinea>
+        </linea>
+        <linea productoRef="P007">
+          <nombreProducto>Aspiradora sin cable</nombreProducto>
+          <cantidad>3</cantidad>
+          <precioUnitario>114.39</precioUnitario>
+          <descuento>10</descuento>
+          <importeLinea>308.85</importeLinea>
+        </linea>
+        <linea productoRef="P014">
+          <nombreProducto>Reloj deportivo inteligente</nombreProducto>
+          <cantidad>2</cantidad>
+          <precioUnitario>137.78</precioUnitario>
+          <descuento>5</descuento>
+          <importeLinea>261.78</importeLinea>
+        </linea>
+      </lineas>
+      <total>1103.65</total>
+    </pedido>
+    <pedido id="O0041" clienteRef="C036" estado="enviado">
+      <fecha>2025-03-10</fecha>
+      <envio>Estándar</envio>
+      <pago>Transferencia</pago>
+      <lineas>
+        <linea productoRef="P012">
+          <nombreProducto>Lámpara LED regulable</nombreProducto>
+          <cantidad>3</cantidad>
+          <precioUnitario>25.48</precioUnitario>
+          <descuento>0</descuento>
+          <importeLinea>76.44</importeLinea>
+        </linea>
+        <linea productoRef="P018">
+          <nombreProducto>Bicicleta estática plegable</nombreProducto>
+          <cantidad>3</cantidad>
+          <precioUnitario>321.22</precioUnitario>
+          <descuento>0</descuento>
+          <importeLinea>963.66</importeLinea>
+        </linea>
+      </lineas>
+      <total>1040.10</total>
+    </pedido>
+    <pedido id="O0042" clienteRef="C010" estado="completado">
+      <fecha>2024-04-04</fecha>
+      <envio>Express</envio>
+      <pago>Tarjeta</pago>
+      <lineas>
+        <linea productoRef="P014">
+          <nombreProducto>Reloj deportivo inteligente</nombreProducto>
+          <cantidad>3</cantidad>
+          <precioUnitario>137.78</precioUnitario>
+          <descuento>15</descuento>
+          <importeLinea>351.34</importeLinea>
+        </linea>
+        <linea productoRef="P006">
+          <nombreProducto>Webcam Full HD con micrófono</nombreProducto>
+          <cantidad>3</cantidad>
+          <precioUnitario>38.40</precioUnitario>
+          <descuento>10</descuento>
+          <importeLinea>103.68</importeLinea>
+        </linea>
+        <linea productoRef="P014">
+          <nombreProducto>Reloj deportivo inteligente</nombreProducto>
+          <cantidad>5</cantidad>
+          <precioUnitario>137.78</precioUnitario>
+          <descuento>0</descuento>
+          <importeLinea>688.90</importeLinea>
+        </linea>
+      </lineas>
+      <total>1143.92</total>
+    </pedido>
+    <pedido id="O0043" clienteRef="C004" estado="completado">
+      <fecha>2025-03-30</fecha>
+      <envio>Estándar</envio>
+      <pago>Tarjeta</pago>
+      <lineas>
+        <linea productoRef="P015">
+          <nombreProducto>Mancuernas ajustables</nombreProducto>
+          <cantidad>1</cantidad>
+          <precioUnitario>108.38</precioUnitario>
+          <descuento>0</descuento>
+          <importeLinea>108.38</importeLinea>
+        </linea>
+        <linea productoRef="P013">
+          <nombreProducto>Zapatillas de running</nombreProducto>
+          <cantidad>5</cantidad>
+          <precioUnitario>84.68</precioUnitario>
+          <descuento>5</descuento>
+          <importeLinea>402.23</importeLinea>
+        </linea>
+        <linea productoRef="P032">
+          <nombreProducto>Báscula digital de cocina</nombreProducto>
+          <cantidad>5</cantidad>
+          <precioUnitario>26.03</precioUnitario>
+          <descuento>15</descuento>
+          <importeLinea>110.63</importeLinea>
+        </linea>
+        <linea productoRef="P027">
+          <nombreProducto>Robot aspirador</nombreProducto>
+          <cantidad>3</cantidad>
+          <precioUnitario>203.43</precioUnitario>
+          <descuento>0</descuento>
+          <importeLinea>610.29</importeLinea>
+        </linea>
+      </lineas>
+      <total>1231.53</total>
+    </pedido>
+    <pedido id="O0044" clienteRef="C026" estado="pendiente">
+      <fecha>2024-04-24</fecha>
+      <envio>Estándar</envio>
+      <pago>Tarjeta</pago>
+      <lineas>
+        <linea productoRef="P020">
+          <nombreProducto>Sartén antiadherente 28 cm</nombreProducto>
+          <cantidad>1</cantidad>
+          <precioUnitario>25.99</precioUnitario>
+          <descuento>5</descuento>
+          <importeLinea>24.69</importeLinea>
+        </linea>
+        <linea productoRef="P002">
+          <nombreProducto>Teclado mecánico retroiluminado</nombreProducto>
+          <cantidad>4</cantidad>
+          <precioUnitario>53.67</precioUnitario>
+          <descuento>0</descuento>
+          <importeLinea>214.68</importeLinea>
+        </linea>
+        <linea productoRef="P009">
+          <nombreProducto>Cafetera automática</nombreProducto>
+          <cantidad>2</cantidad>
+          <precioUnitario>291.61</precioUnitario>
+          <descuento>5</descuento>
+          <importeLinea>554.06</importeLinea>
+        </linea>
+      </lineas>
+      <total>793.43</total>
+    </pedido>
+    <pedido id="O0045" clienteRef="C015" estado="completado">
+      <fecha>2024-10-01</fecha>
+      <envio>Punto de recogida</envio>
+      <pago>Tarjeta</pago>
+      <lineas>
+        <linea productoRef="P003">
+          <nombreProducto>Auriculares Bluetooth con cancelación de ruido</nombreProducto>
+          <cantidad>5</cantidad>
+          <precioUnitario>77.36</precioUnitario>
+          <descuento>5</descuento>
+          <importeLinea>367.46</importeLinea>
+        </linea>
+        <linea productoRef="P028">
+          <nombreProducto>Cesto organizador plegable</nombreProducto>
+          <cantidad>4</cantidad>
+          <precioUnitario>16.48</precioUnitario>
+          <descuento>0</descuento>
+          <importeLinea>65.92</importeLinea>
+        </linea>
+        <linea productoRef="P002">
+          <nombreProducto>Teclado mecánico retroiluminado</nombreProducto>
+          <cantidad>1</cantidad>
+          <precioUnitario>53.67</precioUnitario>
+          <descuento>5</descuento>
+          <importeLinea>50.99</importeLinea>
+        </linea>
+        <linea productoRef="P030">
+          <nombreProducto>Bandas elásticas de resistencia</nombreProducto>
+          <cantidad>1</cantidad>
+          <precioUnitario>17.00</precioUnitario>
+          <descuento>0</descuento>
+          <importeLinea>17.00</importeLinea>
+        </linea>
+        <linea productoRef="P005">
+          <nombreProducto>Disco SSD 1 TB NVMe</nombreProducto>
+          <cantidad>2</cantidad>
+          <precioUnitario>78.23</precioUnitario>
+          <descuento>10</descuento>
+          <importeLinea>140.81</importeLinea>
+        </linea>
+      </lineas>
+      <total>642.18</total>
+    </pedido>
+    <pedido id="O0046" clienteRef="C024" estado="completado">
+      <fecha>2024-08-25</fecha>
+      <envio>Estándar</envio>
+      <pago>PayPal</pago>
+      <lineas>
+        <linea productoRef="P003">
+          <nombreProducto>Auriculares Bluetooth con cancelación de ruido</nombreProducto>
+          <cantidad>5</cantidad>
+          <precioUnitario>77.36</precioUnitario>
+          <descuento>10</descuento>
+          <importeLinea>348.12</importeLinea>
+        </linea>
+        <linea productoRef="P002">
+          <nombreProducto>Teclado mecánico retroiluminado</nombreProducto>
+          <cantidad>2</cantidad>
+          <precioUnitario>53.67</precioUnitario>
+          <descuento>0</descuento>
+          <importeLinea>107.34</importeLinea>
+        </linea>
+        <linea productoRef="P020">
+          <nombreProducto>Sartén antiadherente 28 cm</nombreProducto>
+          <cantidad>3</cantidad>
+          <precioUnitario>25.99</precioUnitario>
+          <descuento>15</descuento>
+          <importeLinea>66.27</importeLinea>
+        </linea>
+        <linea productoRef="P022">
+          <nombreProducto>Tostadora de 2 ranuras</nombreProducto>
+          <cantidad>2</cantidad>
+          <precioUnitario>33.72</precioUnitario>
+          <descuento>0</descuento>
+          <importeLinea>67.44</importeLinea>
+        </linea>
+        <linea productoRef="P015">
+          <nombreProducto>Mancuernas ajustables</nombreProducto>
+          <cantidad>1</cantidad>
+          <precioUnitario>108.38</precioUnitario>
+          <descuento>0</descuento>
+          <importeLinea>108.38</importeLinea>
+        </linea>
+      </lineas>
+      <total>697.55</total>
+    </pedido>
+    <pedido id="O0047" clienteRef="C013" estado="completado">
+      <fecha>2024-05-13</fecha>
+      <envio>24h</envio>
+      <pago>Tarjeta</pago>
+      <lineas>
+        <linea productoRef="P032">
+          <nombreProducto>Báscula digital de cocina</nombreProducto>
+          <cantidad>5</cantidad>
+          <precioUnitario>26.03</precioUnitario>
+          <descuento>0</descuento>
+          <importeLinea>130.15</importeLinea>
+        </linea>
+        <linea productoRef="P030">
+          <nombreProducto>Bandas elásticas de resistencia</nombreProducto>
+          <cantidad>3</cantidad>
+          <precioUnitario>17.00</precioUnitario>
+          <descuento>0</descuento>
+          <importeLinea>51.00</importeLinea>
+        </linea>
+        <linea productoRef="P029">
+          <nombreProducto>Casco para bicicleta urbano</nombreProducto>
+          <cantidad>4</cantidad>
+          <precioUnitario>35.85</precioUnitario>
+          <descuento>0</descuento>
+          <importeLinea>143.40</importeLinea>
+        </linea>
+      </lineas>
+      <total>324.55</total>
+    </pedido>
+    <pedido id="O0048" clienteRef="C029" estado="completado">
+      <fecha>2024-08-30</fecha>
+      <envio>Punto de recogida</envio>
+      <pago>Tarjeta</pago>
+      <lineas>
+        <linea productoRef="P006">
+          <nombreProducto>Webcam Full HD con micrófono</nombreProducto>
+          <cantidad>1</cantidad>
+          <precioUnitario>38.40</precioUnitario>
+          <descuento>15</descuento>
+          <importeLinea>32.64</importeLinea>
+        </linea>
+        <linea productoRef="P020">
+          <nombreProducto>Sartén antiadherente 28 cm</nombreProducto>
+          <cantidad>1</cantidad>
+          <precioUnitario>25.99</precioUnitario>
+          <descuento>10</descuento>
+          <importeLinea>23.39</importeLinea>
+        </linea>
+        <linea productoRef="P030">
+          <nombreProducto>Bandas elásticas de resistencia</nombreProducto>
+          <cantidad>5</cantidad>
+          <precioUnitario>17.00</precioUnitario>
+          <descuento>10</descuento>
+          <importeLinea>76.50</importeLinea>
+        </linea>
+        <linea productoRef="P029">
+          <nombreProducto>Casco para bicicleta urbano</nombreProducto>
+          <cantidad>4</cantidad>
+          <precioUnitario>35.85</precioUnitario>
+          <descuento>5</descuento>
+          <importeLinea>136.23</importeLinea>
+        </linea>
+      </lineas>
+      <total>268.76</total>
+    </pedido>
+    <pedido id="O0049" clienteRef="C036" estado="enviado">
+      <fecha>2024-10-26</fecha>
+      <envio>Estándar</envio>
+      <pago>Bizum</pago>
+      <lineas>
+        <linea productoRef="P013">
+          <nombreProducto>Zapatillas de running</nombreProducto>
+          <cantidad>3</cantidad>
+          <precioUnitario>84.68</precioUnitario>
+          <descuento>15</descuento>
+          <importeLinea>215.93</importeLinea>
+        </linea>
+        <linea productoRef="P011">
+          <nombreProducto>Juego de sábanas algodón</nombreProducto>
+          <cantidad>1</cantidad>
+          <precioUnitario>25.87</precioUnitario>
+          <descuento>10</descuento>
+          <importeLinea>23.28</importeLinea>
+        </linea>
+        <linea productoRef="P020">
+          <nombreProducto>Sartén antiadherente 28 cm</nombreProducto>
+          <cantidad>2</cantidad>
+          <precioUnitario>25.99</precioUnitario>
+          <descuento>0</descuento>
+          <importeLinea>51.98</importeLinea>
+        </linea>
+        <linea productoRef="P016">
+          <nombreProducto>Esterilla de yoga</nombreProducto>
+          <cantidad>2</cantidad>
+          <precioUnitario>21.41</precioUnitario>
+          <descuento>15</descuento>
+          <importeLinea>36.40</importeLinea>
+        </linea>
+        <linea productoRef="P017">
+          <nombreProducto>Botella térmica deportiva</nombreProducto>
+          <cantidad>4</cantidad>
+          <precioUnitario>19.52</precioUnitario>
+          <descuento>5</descuento>
+          <importeLinea>74.18</importeLinea>
+        </linea>
+        <linea productoRef="P005">
+          <nombreProducto>Disco SSD 1 TB NVMe</nombreProducto>
+          <cantidad>5</cantidad>
+          <precioUnitario>78.23</precioUnitario>
+          <descuento>10</descuento>
+          <importeLinea>352.04</importeLinea>
+        </linea>
+      </lineas>
+      <total>753.81</total>
+    </pedido>
+    <pedido id="O0050" clienteRef="C011" estado="completado">
+      <fecha>2024-11-10</fecha>
+      <envio>Punto de recogida</envio>
+      <pago>Bizum</pago>
+      <lineas>
+        <linea productoRef="P016">
+          <nombreProducto>Esterilla de yoga</nombreProducto>
+          <cantidad>3</cantidad>
+          <precioUnitario>21.41</precioUnitario>
+          <descuento>0</descuento>
+          <importeLinea>64.23</importeLinea>
+        </linea>
+        <linea productoRef="P004">
+          <nombreProducto>Monitor 27" Full HD IPS</nombreProducto>
+          <cantidad>5</cantidad>
+          <precioUnitario>195.65</precioUnitario>
+          <descuento>15</descuento>
+          <importeLinea>831.51</importeLinea>
+        </linea>
+        <linea productoRef="P005">
+          <nombreProducto>Disco SSD 1 TB NVMe</nombreProducto>
+          <cantidad>2</cantidad>
+          <precioUnitario>78.23</precioUnitario>
+          <descuento>0</descuento>
+          <importeLinea>156.46</importeLinea>
+        </linea>
+        <linea productoRef="P007">
+          <nombreProducto>Aspiradora sin cable</nombreProducto>
+          <cantidad>3</cantidad>
+          <precioUnitario>114.39</precioUnitario>
+          <descuento>15</descuento>
+          <importeLinea>291.69</importeLinea>
+        </linea>
+        <linea productoRef="P025">
+          <nombreProducto>Hub USB-C 7 en 1</nombreProducto>
+          <cantidad>4</cantidad>
+          <precioUnitario>43.73</precioUnitario>
+          <descuento>0</descuento>
+          <importeLinea>174.92</importeLinea>
+        </linea>
+      </lineas>
+      <total>1518.82</total>
+    </pedido>
+    <pedido id="O0051" clienteRef="C006" estado="completado">
+      <fecha>2024-11-02</fecha>
+      <envio>Express</envio>
+      <pago>Transferencia</pago>
+      <lineas>
+        <linea productoRef="P005">
+          <nombreProducto>Disco SSD 1 TB NVMe</nombreProducto>
+          <cantidad>3</cantidad>
+          <precioUnitario>78.23</precioUnitario>
+          <descuento>5</descuento>
+          <importeLinea>222.96</importeLinea>
+        </linea>
+        <linea productoRef="P004">
+          <nombreProducto>Monitor 27" Full HD IPS</nombreProducto>
+          <cantidad>2</cantidad>
+          <precioUnitario>195.65</precioUnitario>
+          <descuento>0</descuento>
+          <importeLinea>391.30</importeLinea>
+        </linea>
+        <linea productoRef="P024">
+          <nombreProducto>Tupper hermético set x10</nombreProducto>
+          <cantidad>2</cantidad>
+          <precioUnitario>20.56</precioUnitario>
+          <descuento>0</descuento>
+          <importeLinea>41.12</importeLinea>
+        </linea>
+      </lineas>
+      <total>655.38</total>
+    </pedido>
+    <pedido id="O0052" clienteRef="C019" estado="completado">
+      <fecha>2024-02-11</fecha>
+      <envio>Estándar</envio>
+      <pago>Tarjeta</pago>
+      <lineas>
+        <linea productoRef="P016">
+          <nombreProducto>Esterilla de yoga</nombreProducto>
+          <cantidad>2</cantidad>
+          <precioUnitario>21.41</precioUnitario>
+          <descuento>15</descuento>
+          <importeLinea>36.40</importeLinea>
+        </linea>
+        <linea productoRef="P025">
+          <nombreProducto>Hub USB-C 7 en 1</nombreProducto>
+          <cantidad>4</cantidad>
+          <precioUnitario>43.73</precioUnitario>
+          <descuento>0</descuento>
+          <importeLinea>174.92</importeLinea>
+        </linea>
+        <linea productoRef="P010">
+          <nombreProducto>Robot de cocina multifunción</nombreProducto>
+          <cantidad>4</cantidad>
+          <precioUnitario>223.62</precioUnitario>
+          <descuento>0</descuento>
+          <importeLinea>894.48</importeLinea>
+        </linea>
+        <linea productoRef="P011">
+          <nombreProducto>Juego de sábanas algodón</nombreProducto>
+          <cantidad>2</cantidad>
+          <precioUnitario>25.87</precioUnitario>
+          <descuento>5</descuento>
+          <importeLinea>49.15</importeLinea>
+        </linea>
+      </lineas>
+      <total>1154.95</total>
+    </pedido>
+    <pedido id="O0053" clienteRef="C019" estado="completado">
+      <fecha>2024-11-10</fecha>
+      <envio>Express</envio>
+      <pago>PayPal</pago>
+      <lineas>
+        <linea productoRef="P016">
+          <nombreProducto>Esterilla de yoga</nombreProducto>
+          <cantidad>4</cantidad>
+          <precioUnitario>21.41</precioUnitario>
+          <descuento>0</descuento>
+          <importeLinea>85.64</importeLinea>
+        </linea>
+        <linea productoRef="P010">
+          <nombreProducto>Robot de cocina multifunción</nombreProducto>
+          <cantidad>4</cantidad>
+          <precioUnitario>223.62</precioUnitario>
+          <descuento>10</descuento>
+          <importeLinea>805.03</importeLinea>
+        </linea>
+        <linea productoRef="P026">
+          <nombreProducto>Base refrigeradora para portátil</nombreProducto>
+          <cantidad>5</cantidad>
+          <precioUnitario>41.57</precioUnitario>
+          <descuento>5</descuento>
+          <importeLinea>197.46</importeLinea>
+        </linea>
+        <linea productoRef="P030">
+          <nombreProducto>Bandas elásticas de resistencia</nombreProducto>
+          <cantidad>2</cantidad>
+          <precioUnitario>17.00</precioUnitario>
+          <descuento>0</descuento>
+          <importeLinea>34.00</importeLinea>
+        </linea>
+        <linea productoRef="P032">
+          <nombreProducto>Báscula digital de cocina</nombreProducto>
+          <cantidad>5</cantidad>
+          <precioUnitario>26.03</precioUnitario>
+          <descuento>0</descuento>
+          <importeLinea>130.15</importeLinea>
+        </linea>
+        <linea productoRef="P027">
+          <nombreProducto>Robot aspirador</nombreProducto>
+          <cantidad>3</cantidad>
+          <precioUnitario>203.43</precioUnitario>
+          <descuento>0</descuento>
+          <importeLinea>610.29</importeLinea>
+        </linea>
+      </lineas>
+      <total>1862.57</total>
+    </pedido>
+    <pedido id="O0054" clienteRef="C031" estado="completado">
+      <fecha>2024-11-26</fecha>
+      <envio>Estándar</envio>
+      <pago>Tarjeta</pago>
+      <lineas>
+        <linea productoRef="P006">
+          <nombreProducto>Webcam Full HD con micrófono</nombreProducto>
+          <cantidad>1</cantidad>
+          <precioUnitario>38.40</precioUnitario>
+          <descuento>0</descuento>
+          <importeLinea>38.40</importeLinea>
+        </linea>
+        <linea productoRef="P013">
+          <nombreProducto>Zapatillas de running</nombreProducto>
+          <cantidad>4</cantidad>
+          <precioUnitario>84.68</precioUnitario>
+          <descuento>0</descuento>
+          <importeLinea>338.72</importeLinea>
+        </linea>
+        <linea productoRef="P018">
+          <nombreProducto>Bicicleta estática plegable</nombreProducto>
+          <cantidad>1</cantidad>
+          <precioUnitario>321.22</precioUnitario>
+          <descuento>5</descuento>
+          <importeLinea>305.16</importeLinea>
+        </linea>
+        <linea productoRef="P029">
+          <nombreProducto>Casco para bicicleta urbano</nombreProducto>
+          <cantidad>1</cantidad>
+          <precioUnitario>35.85</precioUnitario>
+          <descuento>5</descuento>
+          <importeLinea>34.06</importeLinea>
+        </linea>
+      </lineas>
+      <total>716.34</total>
+    </pedido>
+    <pedido id="O0055" clienteRef="C024" estado="completado">
+      <fecha>2024-09-16</fecha>
+      <envio>Estándar</envio>
+      <pago>Transferencia</pago>
+      <lineas>
+        <linea productoRef="P002">
+          <nombreProducto>Teclado mecánico retroiluminado</nombreProducto>
+          <cantidad>2</cantidad>
+          <precioUnitario>53.67</precioUnitario>
+          <descuento>0</descuento>
+          <importeLinea>107.34</importeLinea>
+        </linea>
+        <linea productoRef="P021">
+          <nombreProducto>Batería de cocina 8 piezas</nombreProducto>
+          <cantidad>1</cantidad>
+          <precioUnitario>134.75</precioUnitario>
+          <descuento>0</descuento>
+          <importeLinea>134.75</importeLinea>
+        </linea>
+        <linea productoRef="P007">
+          <nombreProducto>Aspiradora sin cable</nombreProducto>
+          <cantidad>4</cantidad>
+          <precioUnitario>114.39</precioUnitario>
+          <descuento>15</descuento>
+          <importeLinea>388.93</importeLinea>
+        </linea>
+      </lineas>
+      <total>631.02</total>
+    </pedido>
+    <pedido id="O0056" clienteRef="C009" estado="completado">
+      <fecha>2025-03-03</fecha>
+      <envio>Express</envio>
+      <pago>Bizum</pago>
+      <lineas>
+        <linea productoRef="P001">
+          <nombreProducto>Ratón inalámbrico ergonómico</nombreProducto>
+          <cantidad>5</cantidad>
+          <precioUnitario>26.42</precioUnitario>
+          <descuento>10</descuento>
+          <importeLinea>118.89</importeLinea>
+        </linea>
+        <linea productoRef="P029">
+          <nombreProducto>Casco para bicicleta urbano</nombreProducto>
+          <cantidad>4</cantidad>
+          <precioUnitario>35.85</precioUnitario>
+          <descuento>0</descuento>
+          <importeLinea>143.40</importeLinea>
+        </linea>
+        <linea productoRef="P003">
+          <nombreProducto>Auriculares Bluetooth con cancelación de ruido</nombreProducto>
+          <cantidad>3</cantidad>
+          <precioUnitario>77.36</precioUnitario>
+          <descuento>0</descuento>
+          <importeLinea>232.08</importeLinea>
+        </linea>
+        <linea productoRef="P032">
+          <nombreProducto>Báscula digital de cocina</nombreProducto>
+          <cantidad>3</cantidad>
+          <precioUnitario>26.03</precioUnitario>
+          <descuento>0</descuento>
+          <importeLinea>78.09</importeLinea>
+        </linea>
+        <linea productoRef="P009">
+          <nombreProducto>Cafetera automática</nombreProducto>
+          <cantidad>1</cantidad>
+          <precioUnitario>291.61</precioUnitario>
+          <descuento>0</descuento>
+          <importeLinea>291.61</importeLinea>
+        </linea>
+        <linea productoRef="P007">
+          <nombreProducto>Aspiradora sin cable</nombreProducto>
+          <cantidad>4</cantidad>
+          <precioUnitario>114.39</precioUnitario>
+          <descuento>15</descuento>
+          <importeLinea>388.93</importeLinea>
+        </linea>
+      </lineas>
+      <total>1253.00</total>
+    </pedido>
+    <pedido id="O0057" clienteRef="C030" estado="completado">
+      <fecha>2025-02-12</fecha>
+      <envio>Express</envio>
+      <pago>Tarjeta</pago>
+      <lineas>
+        <linea productoRef="P004">
+          <nombreProducto>Monitor 27" Full HD IPS</nombreProducto>
+          <cantidad>2</cantidad>
+          <precioUnitario>195.65</precioUnitario>
+          <descuento>15</descuento>
+          <importeLinea>332.61</importeLinea>
+        </linea>
+        <linea productoRef="P023">
+          <nombreProducto>Batidora de vaso</nombreProducto>
+          <cantidad>1</cantidad>
+          <precioUnitario>52.23</precioUnitario>
+          <descuento>10</descuento>
+          <importeLinea>47.01</importeLinea>
+        </linea>
+        <linea productoRef="P005">
+          <nombreProducto>Disco SSD 1 TB NVMe</nombreProducto>
+          <cantidad>3</cantidad>
+          <precioUnitario>78.23</precioUnitario>
+          <descuento>0</descuento>
+          <importeLinea>234.69</importeLinea>
+        </linea>
+        <linea productoRef="P010">
+          <nombreProducto>Robot de cocina multifunción</nombreProducto>
+          <cantidad>5</cantidad>
+          <precioUnitario>223.62</precioUnitario>
+          <descuento>10</descuento>
+          <importeLinea>1006.29</importeLinea>
+        </linea>
+        <linea productoRef="P014">
+          <nombreProducto>Reloj deportivo inteligente</nombreProducto>
+          <cantidad>5</cantidad>
+          <precioUnitario>137.78</precioUnitario>
+          <descuento>10</descuento>
+          <importeLinea>620.01</importeLinea>
+        </linea>
+        <linea productoRef="P001">
+          <nombreProducto>Ratón inalámbrico ergonómico</nombreProducto>
+          <cantidad>5</cantidad>
+          <precioUnitario>26.42</precioUnitario>
+          <descuento>0</descuento>
+          <importeLinea>132.10</importeLinea>
+        </linea>
+      </lineas>
+      <total>2372.70</total>
+    </pedido>
+    <pedido id="O0058" clienteRef="C031" estado="completado">
+      <fecha>2024-07-20</fecha>
+      <envio>Express</envio>
+      <pago>Transferencia</pago>
+      <lineas>
+        <linea productoRef="P002">
+          <nombreProducto>Teclado mecánico retroiluminado</nombreProducto>
+          <cantidad>5</cantidad>
+          <precioUnitario>53.67</precioUnitario>
+          <descuento>15</descuento>
+          <importeLinea>228.10</importeLinea>
+        </linea>
+        <linea productoRef="P023">
+          <nombreProducto>Batidora de vaso</nombreProducto>
+          <cantidad>3</cantidad>
+          <precioUnitario>52.23</precioUnitario>
+          <descuento>0</descuento>
+          <importeLinea>156.69</importeLinea>
+        </linea>
+        <linea productoRef="P005">
+          <nombreProducto>Disco SSD 1 TB NVMe</nombreProducto>
+          <cantidad>1</cantidad>
+          <precioUnitario>78.23</precioUnitario>
+          <descuento>0</descuento>
+          <importeLinea>78.23</importeLinea>
+        </linea>
+        <linea productoRef="P016">
+          <nombreProducto>Esterilla de yoga</nombreProducto>
+          <cantidad>5</cantidad>
+          <precioUnitario>21.41</precioUnitario>
+          <descuento>0</descuento>
+          <importeLinea>107.05</importeLinea>
+        </linea>
+      </lineas>
+      <total>570.07</total>
+    </pedido>
+    <pedido id="O0059" clienteRef="C012" estado="completado">
+      <fecha>2025-02-22</fecha>
+      <envio>Express</envio>
+      <pago>Bizum</pago>
+      <lineas>
+        <linea productoRef="P004">
+          <nombreProducto>Monitor 27" Full HD IPS</nombreProducto>
+          <cantidad>1</cantidad>
+          <precioUnitario>195.65</precioUnitario>
+          <descuento>0</descuento>
+          <importeLinea>195.65</importeLinea>
+        </linea>
+        <linea productoRef="P004">
+          <nombreProducto>Monitor 27" Full HD IPS</nombreProducto>
+          <cantidad>3</cantidad>
+          <precioUnitario>195.65</precioUnitario>
+          <descuento>10</descuento>
+          <importeLinea>528.26</importeLinea>
+        </linea>
+        <linea productoRef="P030">
+          <nombreProducto>Bandas elásticas de resistencia</nombreProducto>
+          <cantidad>4</cantidad>
+          <precioUnitario>17.00</precioUnitario>
+          <descuento>10</descuento>
+          <importeLinea>61.20</importeLinea>
+        </linea>
+      </lineas>
+      <total>785.11</total>
+    </pedido>
+    <pedido id="O0060" clienteRef="C017" estado="completado">
+      <fecha>2024-09-01</fecha>
+      <envio>24h</envio>
+      <pago>Transferencia</pago>
+      <lineas>
+        <linea productoRef="P004">
+          <nombreProducto>Monitor 27" Full HD IPS</nombreProducto>
+          <cantidad>4</cantidad>
+          <precioUnitario>195.65</precioUnitario>
+          <descuento>15</descuento>
+          <importeLinea>665.21</importeLinea>
+        </linea>
+        <linea productoRef="P022">
+          <nombreProducto>Tostadora de 2 ranuras</nombreProducto>
+          <cantidad>4</cantidad>
+          <precioUnitario>33.72</precioUnitario>
+          <descuento>5</descuento>
+          <importeLinea>128.14</importeLinea>
+        </linea>
+        <linea productoRef="P018">
+          <nombreProducto>Bicicleta estática plegable</nombreProducto>
+          <cantidad>3</cantidad>
+          <precioUnitario>321.22</precioUnitario>
+          <descuento>0</descuento>
+          <importeLinea>963.66</importeLinea>
+        </linea>
+        <linea productoRef="P008">
+          <nombreProducto>Freidora de aire 5 L</nombreProducto>
+          <cantidad>4</cantidad>
+          <precioUnitario>89.08</precioUnitario>
+          <descuento>15</descuento>
+          <importeLinea>302.87</importeLinea>
+        </linea>
+      </lineas>
+      <total>2059.88</total>
+    </pedido>
+    <pedido id="O0061" clienteRef="C024" estado="enviado">
+      <fecha>2024-09-13</fecha>
+      <envio>Punto de recogida</envio>
+      <pago>Tarjeta</pago>
+      <lineas>
+        <linea productoRef="P006">
+          <nombreProducto>Webcam Full HD con micrófono</nombreProducto>
+          <cantidad>3</cantidad>
+          <precioUnitario>38.40</precioUnitario>
+          <descuento>5</descuento>
+          <importeLinea>109.44</importeLinea>
+        </linea>
+        <linea productoRef="P028">
+          <nombreProducto>Cesto organizador plegable</nombreProducto>
+          <cantidad>5</cantidad>
+          <precioUnitario>16.48</precioUnitario>
+          <descuento>15</descuento>
+          <importeLinea>70.04</importeLinea>
+        </linea>
+        <linea productoRef="P012">
+          <nombreProducto>Lámpara LED regulable</nombreProducto>
+          <cantidad>4</cantidad>
+          <precioUnitario>25.48</precioUnitario>
+          <descuento>0</descuento>
+          <importeLinea>101.92</importeLinea>
+        </linea>
+        <linea productoRef="P019">
+          <nombreProducto>Juego de cuchillos de chef</nombreProducto>
+          <cantidad>4</cantidad>
+          <precioUnitario>79.82</precioUnitario>
+          <descuento>0</descuento>
+          <importeLinea>319.28</importeLinea>
+        </linea>
+        <linea productoRef="P021">
+          <nombreProducto>Batería de cocina 8 piezas</nombreProducto>
+          <cantidad>4</cantidad>
+          <precioUnitario>134.75</precioUnitario>
+          <descuento>0</descuento>
+          <importeLinea>539.00</importeLinea>
+        </linea>
+      </lineas>
+      <total>1139.68</total>
+    </pedido>
+    <pedido id="O0062" clienteRef="C023" estado="completado">
+      <fecha>2025-01-09</fecha>
+      <envio>Express</envio>
+      <pago>Transferencia</pago>
+      <lineas>
+        <linea productoRef="P003">
+          <nombreProducto>Auriculares Bluetooth con cancelación de ruido</nombreProducto>
+          <cantidad>1</cantidad>
+          <precioUnitario>77.36</precioUnitario>
+          <descuento>0</descuento>
+          <importeLinea>77.36</importeLinea>
+        </linea>
+        <linea productoRef="P026">
+          <nombreProducto>Base refrigeradora para portátil</nombreProducto>
+          <cantidad>5</cantidad>
+          <precioUnitario>41.57</precioUnitario>
+          <descuento>15</descuento>
+          <importeLinea>176.67</importeLinea>
+        </linea>
+      </lineas>
+      <total>254.03</total>
+    </pedido>
+    <pedido id="O0063" clienteRef="C029" estado="completado">
+      <fecha>2025-02-06</fecha>
+      <envio>Estándar</envio>
+      <pago>PayPal</pago>
+      <lineas>
+        <linea productoRef="P024">
+          <nombreProducto>Tupper hermético set x10</nombreProducto>
+          <cantidad>3</cantidad>
+          <precioUnitario>20.56</precioUnitario>
+          <descuento>5</descuento>
+          <importeLinea>58.60</importeLinea>
+        </linea>
+        <linea productoRef="P025">
+          <nombreProducto>Hub USB-C 7 en 1</nombreProducto>
+          <cantidad>1</cantidad>
+          <precioUnitario>43.73</precioUnitario>
+          <descuento>10</descuento>
+          <importeLinea>39.36</importeLinea>
+        </linea>
+        <linea productoRef="P003">
+          <nombreProducto>Auriculares Bluetooth con cancelación de ruido</nombreProducto>
+          <cantidad>2</cantidad>
+          <precioUnitario>77.36</precioUnitario>
+          <descuento>10</descuento>
+          <importeLinea>139.25</importeLinea>
+        </linea>
+        <linea productoRef="P010">
+          <nombreProducto>Robot de cocina multifunción</nombreProducto>
+          <cantidad>3</cantidad>
+          <precioUnitario>223.62</precioUnitario>
+          <descuento>5</descuento>
+          <importeLinea>637.32</importeLinea>
+        </linea>
+      </lineas>
+      <total>874.52</total>
+    </pedido>
+    <pedido id="O0064" clienteRef="C018" estado="completado">
+      <fecha>2024-06-11</fecha>
+      <envio>Estándar</envio>
+      <pago>Tarjeta</pago>
+      <lineas>
+        <linea productoRef="P005">
+          <nombreProducto>Disco SSD 1 TB NVMe</nombreProducto>
+          <cantidad>2</cantidad>
+          <precioUnitario>78.23</precioUnitario>
+          <descuento>10</descuento>
+          <importeLinea>140.81</importeLinea>
+        </linea>
+        <linea productoRef="P025">
+          <nombreProducto>Hub USB-C 7 en 1</nombreProducto>
+          <cantidad>3</cantidad>
+          <precioUnitario>43.73</precioUnitario>
+          <descuento>15</descuento>
+          <importeLinea>111.51</importeLinea>
+        </linea>
+        <linea productoRef="P008">
+          <nombreProducto>Freidora de aire 5 L</nombreProducto>
+          <cantidad>4</cantidad>
+          <precioUnitario>89.08</precioUnitario>
+          <descuento>0</descuento>
+          <importeLinea>356.32</importeLinea>
+        </linea>
+      </lineas>
+      <total>608.65</total>
+    </pedido>
+    <pedido id="O0065" clienteRef="C009" estado="completado">
+      <fecha>2024-03-05</fecha>
+      <envio>Express</envio>
+      <pago>PayPal</pago>
+      <lineas>
+        <linea productoRef="P006">
+          <nombreProducto>Webcam Full HD con micrófono</nombreProducto>
+          <cantidad>2</cantidad>
+          <precioUnitario>38.40</precioUnitario>
+          <descuento>0</descuento>
+          <importeLinea>76.80</importeLinea>
+        </linea>
+        <linea productoRef="P021">
+          <nombreProducto>Batería de cocina 8 piezas</nombreProducto>
+          <cantidad>5</cantidad>
+          <precioUnitario>134.75</precioUnitario>
+          <descuento>0</descuento>
+          <importeLinea>673.75</importeLinea>
+        </linea>
+        <linea productoRef="P023">
+          <nombreProducto>Batidora de vaso</nombreProducto>
+          <cantidad>1</cantidad>
+          <precioUnitario>52.23</precioUnitario>
+          <descuento>0</descuento>
+          <importeLinea>52.23</importeLinea>
+        </linea>
+        <linea productoRef="P005">
+          <nombreProducto>Disco SSD 1 TB NVMe</nombreProducto>
+          <cantidad>2</cantidad>
+          <precioUnitario>78.23</precioUnitario>
+          <descuento>0</descuento>
+          <importeLinea>156.46</importeLinea>
+        </linea>
+        <linea productoRef="P019">
+          <nombreProducto>Juego de cuchillos de chef</nombreProducto>
+          <cantidad>4</cantidad>
+          <precioUnitario>79.82</precioUnitario>
+          <descuento>0</descuento>
+          <importeLinea>319.28</importeLinea>
+        </linea>
+      </lineas>
+      <total>1278.52</total>
+    </pedido>
+    <pedido id="O0066" clienteRef="C036" estado="completado">
+      <fecha>2024-07-05</fecha>
+      <envio>Express</envio>
+      <pago>PayPal</pago>
+      <lineas>
+        <linea productoRef="P013">
+          <nombreProducto>Zapatillas de running</nombreProducto>
+          <cantidad>5</cantidad>
+          <precioUnitario>84.68</precioUnitario>
+          <descuento>0</descuento>
+          <importeLinea>423.40</importeLinea>
+        </linea>
+        <linea productoRef="P003">
+          <nombreProducto>Auriculares Bluetooth con cancelación de ruido</nombreProducto>
+          <cantidad>2</cantidad>
+          <precioUnitario>77.36</precioUnitario>
+          <descuento>0</descuento>
+          <importeLinea>154.72</importeLinea>
+        </linea>
+        <linea productoRef="P010">
+          <nombreProducto>Robot de cocina multifunción</nombreProducto>
+          <cantidad>1</cantidad>
+          <precioUnitario>223.62</precioUnitario>
+          <descuento>5</descuento>
+          <importeLinea>212.44</importeLinea>
+        </linea>
+        <linea productoRef="P013">
+          <nombreProducto>Zapatillas de running</nombreProducto>
+          <cantidad>4</cantidad>
+          <precioUnitario>84.68</precioUnitario>
+          <descuento>15</descuento>
+          <importeLinea>287.91</importeLinea>
+        </linea>
+        <linea productoRef="P023">
+          <nombreProducto>Batidora de vaso</nombreProducto>
+          <cantidad>5</cantidad>
+          <precioUnitario>52.23</precioUnitario>
+          <descuento>0</descuento>
+          <importeLinea>261.15</importeLinea>
+        </linea>
+        <linea productoRef="P024">
+          <nombreProducto>Tupper hermético set x10</nombreProducto>
+          <cantidad>2</cantidad>
+          <precioUnitario>20.56</precioUnitario>
+          <descuento>10</descuento>
+          <importeLinea>37.01</importeLinea>
+        </linea>
+      </lineas>
+      <total>1376.63</total>
+    </pedido>
+    <pedido id="O0067" clienteRef="C012" estado="completado">
+      <fecha>2024-11-25</fecha>
+      <envio>24h</envio>
+      <pago>Bizum</pago>
+      <lineas>
+        <linea productoRef="P006">
+          <nombreProducto>Webcam Full HD con micrófono</nombreProducto>
+          <cantidad>2</cantidad>
+          <precioUnitario>38.40</precioUnitario>
+          <descuento>0</descuento>
+          <importeLinea>76.80</importeLinea>
+        </linea>
+        <linea productoRef="P027">
+          <nombreProducto>Robot aspirador</nombreProducto>
+          <cantidad>5</cantidad>
+          <precioUnitario>203.43</precioUnitario>
+          <descuento>0</descuento>
+          <importeLinea>1017.15</importeLinea>
+        </linea>
+        <linea productoRef="P032">
+          <nombreProducto>Báscula digital de cocina</nombreProducto>
+          <cantidad>1</cantidad>
+          <precioUnitario>26.03</precioUnitario>
+          <descuento>0</descuento>
+          <importeLinea>26.03</importeLinea>
+        </linea>
+        <linea productoRef="P017">
+          <nombreProducto>Botella térmica deportiva</nombreProducto>
+          <cantidad>2</cantidad>
+          <precioUnitario>19.52</precioUnitario>
+          <descuento>15</descuento>
+          <importeLinea>33.18</importeLinea>
+        </linea>
+        <linea productoRef="P005">
+          <nombreProducto>Disco SSD 1 TB NVMe</nombreProducto>
+          <cantidad>5</cantidad>
+          <precioUnitario>78.23</precioUnitario>
+          <descuento>0</descuento>
+          <importeLinea>391.15</importeLinea>
+        </linea>
+        <linea productoRef="P010">
+          <nombreProducto>Robot de cocina multifunción</nombreProducto>
+          <cantidad>2</cantidad>
+          <precioUnitario>223.62</precioUnitario>
+          <descuento>15</descuento>
+          <importeLinea>380.15</importeLinea>
+        </linea>
+      </lineas>
+      <total>1924.47</total>
+    </pedido>
+    <pedido id="O0068" clienteRef="C035" estado="completado">
+      <fecha>2024-06-06</fecha>
+      <envio>24h</envio>
+      <pago>PayPal</pago>
+      <lineas>
+        <linea productoRef="P016">
+          <nombreProducto>Esterilla de yoga</nombreProducto>
+          <cantidad>5</cantidad>
+          <precioUnitario>21.41</precioUnitario>
+          <descuento>5</descuento>
+          <importeLinea>101.70</importeLinea>
+        </linea>
+        <linea productoRef="P004">
+          <nombreProducto>Monitor 27" Full HD IPS</nombreProducto>
+          <cantidad>5</cantidad>
+          <precioUnitario>195.65</precioUnitario>
+          <descuento>15</descuento>
+          <importeLinea>831.51</importeLinea>
+        </linea>
+        <linea productoRef="P002">
+          <nombreProducto>Teclado mecánico retroiluminado</nombreProducto>
+          <cantidad>1</cantidad>
+          <precioUnitario>53.67</precioUnitario>
+          <descuento>5</descuento>
+          <importeLinea>50.99</importeLinea>
+        </linea>
+      </lineas>
+      <total>984.20</total>
+    </pedido>
+  </pedidos>
+</tienda>

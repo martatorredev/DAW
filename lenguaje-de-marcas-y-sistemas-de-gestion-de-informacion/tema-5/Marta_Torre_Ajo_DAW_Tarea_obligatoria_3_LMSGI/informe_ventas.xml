@@ -1,0 +1,277 @@
+<informeVentas>
+    <estadisticas>
+        <totalPedidos>68</totalPedidos>
+        <ingresosTotales>70003.41</ingresosTotales>
+        <clientesRegistrados>36</clientesRegistrados>
+    </estadisticas>
+    <productosMasVendidos>
+        <producto>
+            <nombre>Monitor 27" Full HD IPS</nombre>
+            <unidadesVendidas>56</unidadesVendidas>
+        </producto>
+        <producto>
+            <nombre>Zapatillas de running</nombre>
+            <unidadesVendidas>48</unidadesVendidas>
+        </producto>
+        <producto>
+            <nombre>Disco SSD 1 TB NVMe</nombre>
+            <unidadesVendidas>47</unidadesVendidas>
+        </producto>
+        <producto>
+            <nombre>Webcam Full HD con micrófono</nombre>
+            <unidadesVendidas>46</unidadesVendidas>
+        </producto>
+        <producto>
+            <nombre>Esterilla de yoga</nombre>
+            <unidadesVendidas>42</unidadesVendidas>
+        </producto>
+    </productosMasVendidos>
+    <clientesPorGasto>
+        <cliente>
+            <nombre>Sofía Navarro</nombre>
+            <totalGastado>8056.01</totalGastado>
+        </cliente>
+        <cliente>
+            <nombre>Rubén Molina</nombre>
+            <totalGastado>4847.43</totalGastado>
+        </cliente>
+        <cliente>
+            <nombre>Eva Vázquez</nombre>
+            <totalGastado>4711.03</totalGastado>
+        </cliente>
+        <cliente>
+            <nombre>Adrián Serrano</nombre>
+            <totalGastado>3937.89</totalGastado>
+        </cliente>
+        <cliente>
+            <nombre>Francisco Sánchez</nombre>
+            <totalGastado>3456.72</totalGastado>
+        </cliente>
+        <cliente>
+            <nombre>Noelia López</nombre>
+            <totalGastado>3449.48</totalGastado>
+        </cliente>
+        <cliente>
+            <nombre>Francisco Romero</nombre>
+            <totalGastado>3226.62</totalGastado>
+        </cliente>
+        <cliente>
+            <nombre>Daniel Gómez</nombre>
+            <totalGastado>3026.97</totalGastado>
+        </cliente>
+        <cliente>
+            <nombre>Álvaro Gómez</nombre>
+            <totalGastado>3004.29</totalGastado>
+        </cliente>
+        <cliente>
+            <nombre>Eva Fernández</nombre>
+            <totalGastado>2942.66</totalGastado>
+        </cliente>
+        <cliente>
+            <nombre>Marta Molina</nombre>
+            <totalGastado>2552.51</totalGastado>
+        </cliente>
+        <cliente>
+            <nombre>Lidia Martínez</nombre>
+            <totalGastado>2486.75</totalGastado>
+        </cliente>
+        <cliente>
+            <nombre>Sergio Navarro</nombre>
+            <totalGastado>2468.25</totalGastado>
+        </cliente>
+        <cliente>
+            <nombre>Noelia Torres</nombre>
+            <totalGastado>2184.42</totalGastado>
+        </cliente>
+        <cliente>
+            <nombre>Sofía Torres</nombre>
+            <totalGastado>1876.64</totalGastado>
+        </cliente>
+        <cliente>
+            <nombre>Paula García</nombre>
+            <totalGastado>1562.69</totalGastado>
+        </cliente>
+        <cliente>
+            <nombre>Jorge Pérez</nombre>
+            <totalGastado>1518.82</totalGastado>
+        </cliente>
+        <cliente>
+            <nombre>Daniel Navarro</nombre>
+            <totalGastado>1485.57</totalGastado>
+        </cliente>
+        <cliente>
+            <nombre>Ana Ruiz</nombre>
+            <totalGastado>1442.85</totalGastado>
+        </cliente>
+        <cliente>
+            <nombre>Adrián Cortés</nombre>
+            <totalGastado>1440.15</totalGastado>
+        </cliente>
+        <cliente>
+            <nombre>Álvaro Santos</nombre>
+            <totalGastado>1326.61</totalGastado>
+        </cliente>
+        <cliente>
+            <nombre>Daniel Castro</nombre>
+            <totalGastado>1286.41</totalGastado>
+        </cliente>
+        <cliente>
+            <nombre>Alicia Díaz</nombre>
+            <totalGastado>1231.53</totalGastado>
+        </cliente>
+        <cliente>
+            <nombre>Sofía Ruiz</nombre>
+            <totalGastado>1143.28</totalGastado>
+        </cliente>
+        <cliente>
+            <nombre>Rubén Delgado</nombre>
+            <totalGastado>1012.81</totalGastado>
+        </cliente>
+        <cliente>
+            <nombre>Irene Delgado</nombre>
+            <totalGastado>889.47</totalGastado>
+        </cliente>
+        <cliente>
+            <nombre>Álvaro Gómez</nombre>
+            <totalGastado>793.43</totalGastado>
+        </cliente>
+        <cliente>
+            <nombre>Ana Sánchez</nombre>
+            <totalGastado>701.97</totalGastado>
+        </cliente>
+        <cliente>
+            <nombre>Álvaro Ramos</nombre>
+            <totalGastado>597.68</totalGastado>
+        </cliente>
+        <cliente>
+            <nombre>Tomás Molina</nombre>
+            <totalGastado>593.16</totalGastado>
+        </cliente>
+        <cliente>
+            <nombre>Sergio Torres</nombre>
+            <totalGastado>540.58</totalGastado>
+        </cliente>
+        <cliente>
+            <nombre>Álvaro Torres</nombre>
+            <totalGastado>208.73</totalGastado>
+        </cliente>
+        <cliente>
+            <nombre>Lucía Delgado</nombre>
+            <totalGastado>0</totalGastado>
+        </cliente>
+        <cliente>
+            <nombre>Hugo Pérez</nombre>
+            <totalGastado>0</totalGastado>
+        </cliente>
+        <cliente>
+            <nombre>Paula Fernández</nombre>
+            <totalGastado>0</totalGastado>
+        </cliente>
+        <cliente>
+            <nombre>Sofía Castro</nombre>
+            <totalGastado>0</totalGastado>
+        </cliente>
+    </clientesPorGasto>
+    <clientesVIP>
+        <cliente>
+            <nombre>Sofía Navarro</nombre>
+            <totalGastado>8056.01</totalGastado>
+        </cliente>
+        <cliente>
+            <nombre>Rubén Molina</nombre>
+            <totalGastado>4847.43</totalGastado>
+        </cliente>
+        <cliente>
+            <nombre>Eva Vázquez</nombre>
+            <totalGastado>4711.03</totalGastado>
+        </cliente>
+        <cliente>
+            <nombre>Adrián Serrano</nombre>
+            <totalGastado>3937.89</totalGastado>
+        </cliente>
+        <cliente>
+            <nombre>Francisco Sánchez</nombre>
+            <totalGastado>3456.72</totalGastado>
+        </cliente>
+        <cliente>
+            <nombre>Noelia López</nombre>
+            <totalGastado>3449.48</totalGastado>
+        </cliente>
+        <cliente>
+            <nombre>Francisco Romero</nombre>
+            <totalGastado>3226.62</totalGastado>
+        </cliente>
+        <cliente>
+            <nombre>Daniel Gómez</nombre>
+            <totalGastado>3026.97</totalGastado>
+        </cliente>
+        <cliente>
+            <nombre>Álvaro Gómez</nombre>
+            <totalGastado>3004.29</totalGastado>
+        </cliente>
+        <cliente>
+            <nombre>Eva Fernández</nombre>
+            <totalGastado>2942.66</totalGastado>
+        </cliente>
+        <cliente>
+            <nombre>Marta Molina</nombre>
+            <totalGastado>2552.51</totalGastado>
+        </cliente>
+        <cliente>
+            <nombre>Lidia Martínez</nombre>
+            <totalGastado>2486.75</totalGastado>
+        </cliente>
+        <cliente>
+            <nombre>Sergio Navarro</nombre>
+            <totalGastado>2468.25</totalGastado>
+        </cliente>
+        <cliente>
+            <nombre>Noelia Torres</nombre>
+            <totalGastado>2184.42</totalGastado>
+        </cliente>
+        <cliente>
+            <nombre>Sofía Torres</nombre>
+            <totalGastado>1876.64</totalGastado>
+        </cliente>
+        <cliente>
+            <nombre>Paula García</nombre>
+            <totalGastado>1562.69</totalGastado>
+        </cliente>
+        <cliente>
+            <nombre>Jorge Pérez</nombre>
+            <totalGastado>1518.82</totalGastado>
+        </cliente>
+        <cliente>
+            <nombre>Daniel Navarro</nombre>
+            <totalGastado>1485.57</totalGastado>
+        </cliente>
+        <cliente>
+            <nombre>Ana Ruiz</nombre>
+            <totalGastado>1442.85</totalGastado>
+        </cliente>
+        <cliente>
+            <nombre>Adrián Cortés</nombre>
+            <totalGastado>1440.15</totalGastado>
+        </cliente>
+        <cliente>
+            <nombre>Álvaro Santos</nombre>
+            <totalGastado>1326.61</totalGastado>
+        </cliente>
+        <cliente>
+            <nombre>Daniel Castro</nombre>
+            <totalGastado>1286.41</totalGastado>
+        </cliente>
+        <cliente>
+            <nombre>Alicia Díaz</nombre>
+            <totalGastado>1231.53</totalGastado>
+        </cliente>
+        <cliente>
+            <nombre>Sofía Ruiz</nombre>
+            <totalGastado>1143.28</totalGastado>
+        </cliente>
+        <cliente>
+            <nombre>Rubén Delgado</nombre>
+            <totalGastado>1012.81</totalGastado>
+        </cliente>
+    </clientesVIP>
+</informeVentas>
